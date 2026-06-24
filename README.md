@@ -128,4 +128,4 @@ MIT License. Copyright (c) 2026 Lawrence Evalyn. Full text in [LICENSE](LICENSE)
 
 ## Development notes
 
-This software was developed through collaborative AI-assisted programming between Lawrence Evalyn and Anthropic's Claude. Its results have been meticulously reviewed for accuracy, within the specific domain of eighteenth-century namelists..
+This software was developed through collaborative AI-assisted programming between Lawrence Evalyn and Anthropic's Claude. Its results have been meticulously reviewed for accuracy, within the specific domain of eighteenth-century namelists (I assume it will be terrible at entity resolution in other contexts).
