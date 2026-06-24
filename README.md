@@ -1,7 +1,7 @@
 # 18thC-subscriber-networks
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/1278919514.svg)](https://doi.org/10.5281/zenodo.20825871)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20825872.svg)](https://doi.org/10.5281/zenodo.20825872)
 
 Turn transcribed eighteenth-century book-subscriber lists into a bimodal network of books and persons! Find out which books shared a readership, and exactly who those shared subscribers were! Maybe even generalize to *other* kinds of lists of eighteenth-century names? All driven by exhaustingly rules-based logic, with several opportunities for manual review and adjustment!
 
