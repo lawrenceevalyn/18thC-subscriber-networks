@@ -1,9 +1,7 @@
 # 18thC-subscriber-networks
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-<!-- Zenodo DOI badge — uncomment and fill in XXXXXXX after archiving a release on Zenodo:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
--->
+[![DOI](https://zenodo.org/badge/1278919514.svg)](https://doi.org/10.5281/zenodo.20825871)
 
 Turn transcribed eighteenth-century book-subscriber lists into a bimodal network of books and persons! Find out which books shared a readership, and exactly who those shared subscribers were! Maybe even generalize to *other* kinds of lists of eighteenth-century names? All driven by exhaustingly rules-based logic, with several opportunities for manual review and adjustment!
 
@@ -116,15 +114,13 @@ If you use this software, please cite it. GitHub's **"Cite this repository"** bu
              Eighteenth-Century Books},
   version = {1.0.0},
   year    = {2026},
-  url      = {https://github.com/lawrenceevalyn/18thC-subscriber-networks}
+  url     = {https://github.com/lawrenceevalyn/18thC-subscriber-networks}
+  doi     = {10.5281/zenodo.20825871}
 }
 ```
 
 You may also be interested in:
 * "[Bimodal Network Graphs of Crowdfunded Literary Patronage: Two Views of Black Britons Publishing in the Eighteenth Century](https://lawrenceevalyn.com/ACH-2026-poster.html)", *Association for Computers and the Humanities 2026*, a virtual poster introducting this pipeline.
-
-A DOI will be added here once a release is archived on Zenodo (see the badge slot at the top
-and the DOI slot in `CITATION.cff`).
 
 ## License
 

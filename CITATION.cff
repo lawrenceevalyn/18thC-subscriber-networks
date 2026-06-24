@@ -26,13 +26,8 @@ keywords:
   - network analysis
   - entity resolution
 
-# --- Zenodo DOI slot -----------------------------------------------------------
-# After archiving a tagged release on Zenodo, uncomment and fill in the DOI below
-# (and update the badge in README.md). Left commented so this file stays valid CFF
-# until a DOI exists.
-#
-# doi: "10.5281/zenodo.XXXXXXX"
-# identifiers:
-#   - type: doi
-#     value: "10.5281/zenodo.XXXXXXX"
-#     description: "Archived release on Zenodo."
+doi: "10.5281/zenodo.20825871"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20825871"
+    description: "Archived release on Zenodo."
