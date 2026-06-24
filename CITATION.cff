@@ -2,17 +2,13 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata below."
 title: "18thC-subscriber-networks: Subscriber-Overlap Networks for Eighteenth-Century Books"
 abstract: >-
-  A pipeline that turns transcribed eighteenth-century book-subscriber lists into a
-  cross-book overlap network of shared subscribers, producing a chord-diagram figure and
-  a CSV of every subscriber who appears in more than one work. It performs the necessary
-  post-processing, normalization, order-aware name parsing, and entity resolution in
-  between.
+  A pipeline that turns transcribed eighteenth-century book-subscriber lists into a cross-book overlap network of shared subscribers, producing a chord-diagram figure and a CSV of every subscriber who appears in more than one work. It performs the necessary post-processing, normalization, order-aware name parsing, and entity resolution in between.
 type: software
 authors:
   - family-names: Evalyn
     given-names: Lawrence
     affiliation: Northeastern University
-    # orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO: add ORCID if desired
+	orcid: "https://orcid.org/0000-0001-7914-3343"
 version: 1.0.0
 date-released: 2026-06-24
 license: MIT
@@ -25,7 +21,6 @@ keywords:
   - eighteenth century
   - network analysis
   - entity resolution
-
 doi: "10.5281/zenodo.20825871"
 identifiers:
   - type: doi
