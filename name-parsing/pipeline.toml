@@ -1,0 +1,13 @@
+# ==============================================================================
+#              Name-Parsing Pipeline — pipeline.toml
+# ==============================================================================
+# Configuration for ingesting subscriber-list CSVs and producing a parsed
+# CSV with structured fields (parsed_title, parsed_first, parsed_last, etc.).
+# ==============================================================================
+
+[paths]
+input_dir    = "../data/input-lists"
+consolidated = "outputs/01-consolidated.csv"
+normalized   = "outputs/03-normalized.csv"
+parsed       = "outputs/04-parsed.csv"
+corrections  = "resources/spelling-corrections.csv"

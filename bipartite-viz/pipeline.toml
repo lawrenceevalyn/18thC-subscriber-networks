@@ -1,0 +1,16 @@
+# ==============================================================================
+#        Bipartite Graph Pipeline for Eighteenth-Century Subscriber Lists
+#                          bipartite-viz/pipeline.toml
+# ==============================================================================
+# Configuration for rendering the bipartite subscriber-work visualizations
+# from a GraphML graph built by ../bipartite-graphs/build_graph.py.
+# ==============================================================================
+
+[paths]
+graph = "../bipartite-graphs/outputs/graph.graphml"
+
+[overlap]
+# Optionally point a manicule (pointing hand) at one work in the chord
+# diagram, matched against an author surname or book title — useful when one
+# book motivates the analysis. Leave "" for a neutral figure (the default).
+highlight = ""

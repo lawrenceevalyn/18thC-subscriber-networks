@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "18thC-subscriber-networks: Subscriber-Overlap Networks for Eighteenth-Century Books"
+abstract: >-
+  A pipeline that turns transcribed eighteenth-century book-subscriber lists into a
+  cross-book overlap network of shared subscribers, producing a chord-diagram figure and
+  a CSV of every subscriber who appears in more than one work. It performs the necessary
+  post-processing, normalization, order-aware name parsing, and entity resolution in
+  between.
+type: software
+authors:
+  - family-names: Evalyn
+    given-names: Lawrence
+    affiliation: Northeastern University
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO: add ORCID if desired
+version: 1.0.0
+date-released: 2026-06-24
+license: MIT
+repository-code: "https://github.com/lawrenceevalyn/18thC-subscriber-networks"
+url: "https://github.com/lawrenceevalyn/18thC-subscriber-networks"
+keywords:
+  - digital humanities
+  - book history
+  - subscriber lists
+  - eighteenth century
+  - network analysis
+  - entity resolution
+
+# --- Zenodo DOI slot -----------------------------------------------------------
+# After archiving a tagged release on Zenodo, uncomment and fill in the DOI below
+# (and update the badge in README.md). Left commented so this file stays valid CFF
+# until a DOI exists.
+#
+# doi: "10.5281/zenodo.XXXXXXX"
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.XXXXXXX"
+#     description: "Archived release on Zenodo."

@@ -1,0 +1,29 @@
+# ==============================================================================
+#            Entity-Resolution Pipeline — pipeline.toml
+# ==============================================================================
+# Configuration for matching entries across editions and producing a
+# deduplicated CSV with collapsed person_id values.
+# ==============================================================================
+
+[paths]
+parsed           = "../name-parsing/outputs/04-parsed.csv"
+deduplicated     = "outputs/deduplicated.csv"
+title_matches    = "outputs/05-title-matches.csv"
+title_candidates = "outputs/05-title-candidates.csv"
+auto_resolved    = "outputs/06-auto-resolved.csv"
+candidates       = "outputs/06-candidates.csv"
+dictionary       = "resources/title-holders.csv"
+decisions        = "resources/decisions.csv"   # durable pair-level review ledger
+
+# -----------------------------------------------------------------------------
+# Title-matching settings (05_match_titles.py).
+# -----------------------------------------------------------------------------
+[titles]
+auto_match_same_title    = true
+use_holder_disambiguation = true
+
+# -----------------------------------------------------------------------------
+# Component-matching settings (06_match_components.py).
+# -----------------------------------------------------------------------------
+# Matching rules are hardcoded in the script. See the docstring in
+# 06_match_components.py for the full rule set.

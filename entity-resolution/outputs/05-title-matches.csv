@@ -1,0 +1,441 @@
+group_id,match,entry_id,person_id,title_key,title_holder,normalized_name,listed as,book,edition,year,match_tier
+tt_0001,y,Equiano-Interesting-4-0001,Equiano-Interesting-4-0001,archbishop of dublin,,Archbishop of Dublin,His Grace the Archbishop of Dublin,Interesting Narrative,4,1791,title_same
+tt_0001,y,Equiano-Interesting-6-0473,Equiano-Interesting-6-0473,archbishop of dublin,,Archbishop of Dublin,His Grace the Archbishop of Dublin.,Interesting Narrative,6,1793,title_same
+tt_0001,y,Equiano-Interesting-7-0488,Equiano-Interesting-7-0488,archbishop of dublin,,Archbishop of Dublin,His Grace the Archbishop of Dublin.,Interesting Narrative,7,1793,title_same
+tt_0002,y,Equiano-Interesting-5-0114,Equiano-Interesting-5-0114,bishop of london,Beilby Porteus,Bishop of London,The Bishop of London,Interesting Narrative,5,1792,title_same
+tt_0002,y,Equiano-Interesting-6-0121,Equiano-Interesting-6-0121,bishop of london,Beilby Porteus,Bishop of London,The Bishop of London,Interesting Narrative,6,1793,title_same
+tt_0003,y,Equiano-Interesting-5-0181,Equiano-Interesting-5-0181,bishop of worcester,,Bishop of Worcester,The Bishop of Worcester,Interesting Narrative,5,1792,title_same
+tt_0003,y,Equiano-Interesting-6-0196,Equiano-Interesting-6-0196,bishop of worcester,,Bishop of Worcester,The Bishop of Worcester,Interesting Narrative,6,1793,title_same
+tt_0003,y,Equiano-Interesting-7-0201,Equiano-Interesting-7-0201,bishop of worcester,,Bishop of Worcester,The Bishop of Worcester,Interesting Narrative,7,1793,title_same
+tt_0003,y,Equiano-Interesting-8-0207,Equiano-Interesting-8-0207,bishop of worcester,,Bishop of Worcester,The Bishop of Worcester,Interesting Narrative,8,1794,title_same
+tt_0003,y,Equiano-Interesting-9-0207,Equiano-Interesting-9-0207,bishop of worcester,,Bishop of Worcester,The Bishop of Worcester,Interesting Narrative,9,1794,title_same
+tt_0004,y,Equiano-Interesting-1-0092,Equiano-Interesting-1-0092,countess of essex,,Right Hon. the Countess of Essex,The Right Hon. the Countess of Essex,Interesting Narrative,1,1789,title_same
+tt_0004,y,Equiano-Interesting-2-0113,Equiano-Interesting-2-0113,countess of essex,,Right Hon. the Countess of Essex,The Right Hon. the Countess of Essex,Interesting Narrative,2,1789,title_same
+tt_0004,y,Equiano-Interesting-3-0118,Equiano-Interesting-3-0118,countess of essex,,Right Hon. the Countess of Essex,The Right Hon. the Countess of Essex,Interesting Narrative,3,1790,title_same
+tt_0004,y,Equiano-Interesting-4-0232,Equiano-Interesting-4-0232,countess of essex,,Right Hon. the Countess of Essex,The Right on the Countess of Essex,Interesting Narrative,4,1791,title_same
+tt_0004,y,Equiano-Interesting-5-0069,Equiano-Interesting-5-0069,countess of essex,,Countess of Essex,The Countess of Essex,Interesting Narrative,5,1792,title_same
+tt_0004,y,Equiano-Interesting-6-0070,Equiano-Interesting-6-0070,countess of essex,,Countess of Essex,The Countess of Essex,Interesting Narrative,6,1793,title_same
+tt_0004,y,Equiano-Interesting-7-0070,Equiano-Interesting-7-0070,countess of essex,,Countess of Essex,The Countess of Essex,Interesting Narrative,7,1793,title_same
+tt_0004,y,Equiano-Interesting-8-0073,Equiano-Interesting-8-0073,countess of essex,,Countess of Essex,The Countess of Essex,Interesting Narrative,8,1794,title_same
+tt_0004,y,Equiano-Interesting-9-0073,Equiano-Interesting-9-0073,countess of essex,,Countess of Essex,The Countess of Essex,Interesting Narrative,9,1794,title_same
+tt_0005,y,Equiano-Interesting-2-0155,Equiano-Interesting-2-0155,countess of harrington,,Right Hon. Countess of Harrington,The Right Hon. Countess Harrington,Interesting Narrative,2,1789,title_same
+tt_0005,y,Equiano-Interesting-3-0160,Equiano-Interesting-3-0160,countess of harrington,,Right Hon. Countess of Harrington,The Right Hon. Countess Harrington,Interesting Narrative,3,1790,title_same
+tt_0005,y,Equiano-Interesting-4-0255,Equiano-Interesting-4-0255,countess of harrington,,Right Hon. Countess of Harrington,The Right Hon. Countess Harrington,Interesting Narrative,4,1791,title_same
+tt_0005,y,Equiano-Interesting-5-0088,Equiano-Interesting-5-0088,countess of harrington,,Hon. Countess of Harrington,Hon. Countess of Harington,Interesting Narrative,5,1792,title_same
+tt_0005,y,Equiano-Interesting-6-0093,Equiano-Interesting-6-0093,countess of harrington,,Hon. Countess of Harrington,Hon. Countess of Harrington,Interesting Narrative,6,1793,title_same
+tt_0005,y,Equiano-Interesting-7-0093,Equiano-Interesting-7-0093,countess of harrington,,Right Hon. Countess of Harrington,Rt. Hon. Countess of Harrington,Interesting Narrative,7,1793,title_same
+tt_0005,y,Equiano-Interesting-8-0096,Equiano-Interesting-8-0096,countess of harrington,,Right Hon. Countess of Harrington,Rt. Hon. Countess of Harrington,Interesting Narrative,8,1794,title_same
+tt_0005,y,Equiano-Interesting-9-0096,Equiano-Interesting-9-0096,countess of harrington,,Right Hon. Countess of Harrington,Rt. Hon. Countess of Harrington,Interesting Narrative,9,1794,title_same
+tt_0007,y,Equiano-Interesting-1-0130,Equiano-Interesting-1-0130,dowager countess of huntingdon,,Right Hon. Dowager Countess of Huntingdon,Right Hon. Dowager Countess of Huntingdon,Interesting Narrative,1,1789,title_same
+tt_0007,y,Equiano-Interesting-2-0156,Equiano-Interesting-2-0156,dowager countess of huntingdon,,Right Hon. Dowager Countess of Huntingdon,Right Hon. Dowager Countess of Huntingdon,Interesting Narrative,2,1789,title_same
+tt_0007,y,Equiano-Interesting-3-0161,Equiano-Interesting-3-0161,dowager countess of huntingdon,,Right Hon. Dowager Countess of Huntingdon,Right Hon. Dowager Countess of Huntingdon,Interesting Narrative,3,1790,title_same
+tt_0007,y,Equiano-Interesting-4-0256,Equiano-Interesting-4-0256,dowager countess of huntingdon,,Right Hon. Dowager Countess of Huntingdon,Right Hon. Dowager Countess of Huntingdon,Interesting Narrative,4,1791,title_same
+tt_0007,y,Equiano-Interesting-5-0089,Equiano-Interesting-5-0089,dowager countess of huntingdon,,Hon. Dowager Countess of Huntingdon,Hon. Dowager Countess Huntingdon,Interesting Narrative,5,1792,title_same
+tt_0007,y,Equiano-Interesting-6-0094,Equiano-Interesting-6-0094,dowager countess of huntingdon,,Hon. Dowager Countess of Huntingdon,Hon. Dowager Countess Huntingdon,Interesting Narrative,6,1793,title_same
+tt_0007,y,Equiano-Interesting-8-0097,Equiano-Interesting-8-0097,dowager countess of huntingdon,,Right Hon. Dowager Countess of Huntingdon,Rt. Hon. Dowager Countess of Huntingdon,Interesting Narrative,8,1794,title_same
+tt_0007,y,Equiano-Interesting-9-0097,Equiano-Interesting-9-0097,dowager countess of huntingdon,,Right Hon. Dowager Countess of Huntingdon,Rt. Hon. Dowager Countess of Huntingdon,Interesting Narrative,9,1794,title_same
+tt_0008,y,Equiano-Interesting-1-0019,Equiano-Interesting-1-0019,duchess of buccleugh,,Duchess of Buccleugh,Her Grace the Duchess of Buccleugh,Interesting Narrative,1,1789,title_same
+tt_0008,y,Equiano-Interesting-2-0026,Equiano-Interesting-2-0026,duchess of buccleugh,,Duchess of Buccleugh,Her Grace the Duchess of Buccleugh,Interesting Narrative,2,1789,title_same
+tt_0008,y,Equiano-Interesting-3-0026,Equiano-Interesting-3-0026,duchess of buccleugh,,Duchess of Buccleugh,Her Grace the Duchess of Buccleugh,Interesting Narrative,3,1790,title_same
+tt_0008,y,Equiano-Interesting-4-0180,Equiano-Interesting-4-0180,duchess of buccleugh,,Duchess of Buccleugh,Her Grace the Duchess of Buccleugh,Interesting Narrative,4,1791,title_same
+tt_0008,y,Equiano-Interesting-5-0017,Equiano-Interesting-5-0017,duchess of buccleugh,,Duchess of Buccleugh,The Duchess of Buccleugh,Interesting Narrative,5,1792,title_same
+tt_0008,y,Equiano-Interesting-6-0017,Equiano-Interesting-6-0017,duchess of buccleugh,,Duchess of Buccleugh,The Duchess of Buccleugh,Interesting Narrative,6,1793,title_same
+tt_0008,y,Equiano-Interesting-7-0017,Equiano-Interesting-7-0017,duchess of buccleugh,,Duchess of Buccleugh,The Duchess of Buccleugh,Interesting Narrative,7,1793,title_same
+tt_0008,y,Equiano-Interesting-8-0017,Equiano-Interesting-8-0017,duchess of buccleugh,,Duchess of Buccleugh,The Duchess of Buccleugh,Interesting Narrative,8,1794,title_same
+tt_0008,y,Equiano-Interesting-9-0017,Equiano-Interesting-9-0017,duchess of buccleugh,,Duchess of Buccleugh,TheDuchessof Buccleugh,Interesting Narrative,9,1794,title_same
+tt_0008,y,Sancho-Letters-1-0045,Sancho-Letters-1-0045,duchess of buccleugh,,Duchess of Buccleugh,Her Grace the Duchess of Buccleugh,Letters,1,1782,title_same
+tt_0009,y,Equiano-Interesting-1-0252,Equiano-Interesting-1-0252,duchess of st. alban's,,Duchess of St. Alban's,Her Grace the Duchess of St. Albans,Interesting Narrative,1,1789,title_same
+tt_0009,y,Equiano-Interesting-2-0317,Equiano-Interesting-2-0317,duchess of st. alban's,,Duchess of St. Alban's,Her Grace the Duchess of St. Albans,Interesting Narrative,2,1789,title_same
+tt_0009,y,Equiano-Interesting-3-0327,Equiano-Interesting-3-0327,duchess of st. alban's,,Duchess of St. Alban's,Her Grace the Duchess of St. Alban's,Interesting Narrative,3,1790,title_same
+tt_0009,y,Equiano-Interesting-4-0327,Equiano-Interesting-4-0327,duchess of st. alban's,,Duchess of St. Alban's,Her Grace the Duchess of St. Alban's,Interesting Narrative,4,1791,title_same
+tt_0009,y,Equiano-Interesting-5-0158,Equiano-Interesting-5-0158,duchess of st. alban's,,Duchess of St. Alban's,The Duchess of St Alban's,Interesting Narrative,5,1792,title_same
+tt_0009,y,Equiano-Interesting-6-0172,Equiano-Interesting-6-0172,duchess of st. alban's,,Duchess of St. Alban's,TheDuchess of St. Alban's,Interesting Narrative,6,1793,title_same
+tt_0009,y,Equiano-Interesting-7-0176,Equiano-Interesting-7-0176,duchess of st. alban's,,Duchess of St. Alban's,The Duchessof St. Alban's,Interesting Narrative,7,1793,title_same
+tt_0009,y,Equiano-Interesting-8-0180,Equiano-Interesting-8-0180,duchess of st. alban's,,Duchess of St. Alban's,The Duchess of St. Alban's,Interesting Narrative,8,1794,title_same
+tt_0009,y,Equiano-Interesting-9-0180,Equiano-Interesting-9-0180,duchess of st. alban's,,Duchess of St. Alban's,TheDuchessofSt. Alban's,Interesting Narrative,9,1794,title_same
+tt_0010,y,Equiano-Interesting-1-0018,Equiano-Interesting-1-0018,duke of bedford,,Duke of Bedford,His Grace the Duke of Bedford,Interesting Narrative,1,1789,title_same
+tt_0010,y,Equiano-Interesting-2-0025,Equiano-Interesting-2-0025,duke of bedford,,Duke of Bedford,His Grace the Duke of Bedford,Interesting Narrative,2,1789,title_same
+tt_0010,y,Equiano-Interesting-3-0025,Equiano-Interesting-3-0025,duke of bedford,,Duke of Bedford,His Grace the Duke of Bedford,Interesting Narrative,3,1790,title_same
+tt_0010,y,Equiano-Interesting-4-0179,Equiano-Interesting-4-0179,duke of bedford,,Duke of Bedford,His Grace the Duke of Bedford,Interesting Narrative,4,1791,title_same
+tt_0010,y,Equiano-Interesting-5-0016,Equiano-Interesting-5-0016,duke of bedford,,Duke of Bedford,The Duke of Bedford,Interesting Narrative,5,1792,title_same
+tt_0010,y,Equiano-Interesting-6-0016,Equiano-Interesting-6-0016,duke of bedford,,Duke of Bedford,The Duke of Bedford,Interesting Narrative,6,1793,title_same
+tt_0010,y,Equiano-Interesting-7-0016,Equiano-Interesting-7-0016,duke of bedford,,Duke of Bedford,The Duke of Bedford,Interesting Narrative,7,1793,title_same
+tt_0010,y,Equiano-Interesting-8-0016,Equiano-Interesting-8-0016,duke of bedford,,Duke of Bedford,The Duke of Bedford,Interesting Narrative,8,1794,title_same
+tt_0010,y,Equiano-Interesting-9-0016,Equiano-Interesting-9-0016,duke of bedford,,Duke of Bedford,The Duke of Bedford,Interesting Narrative,9,1794,title_same
+tt_0010,y,Sancho-Letters-1-0043,Sancho-Letters-1-0043,duke of bedford,,Duke of Bedford,His Grace the Duke of Bedford,Letters,1,1782,title_same
+tt_0011,y,Equiano-Interesting-2-0003,Equiano-Interesting-2-0003,duke of cumberland,,Duke of Cumberland,His Royal Highness the Duke of Cumberland.,Interesting Narrative,2,1789,title_same
+tt_0011,y,Equiano-Interesting-3-0003,Equiano-Interesting-3-0003,duke of cumberland,,Duke of Cumberland,His Royal Highness the Duke of Cumberland.,Interesting Narrative,3,1790,title_same
+tt_0011,y,Equiano-Interesting-4-0165,Equiano-Interesting-4-0165,duke of cumberland,,Duke of Cumberland,His Royal Highness the Duke of Cumberland.,Interesting Narrative,4,1791,title_same
+tt_0011,y,Equiano-Interesting-5-0003,Equiano-Interesting-5-0003,duke of cumberland,,Duke of Cumberland,His Royal Highness the Duke of Cumberland.,Interesting Narrative,5,1792,title_same
+tt_0011,y,Equiano-Interesting-6-0003,Equiano-Interesting-6-0003,duke of cumberland,,Duke of Cumberland,His Royal Highness the Duke of Cumberland,Interesting Narrative,6,1793,title_same
+tt_0011,y,Equiano-Interesting-7-0003,Equiano-Interesting-7-0003,duke of cumberland,,Duke of Cumberland,His Royla highness the Duke of Cumblerland.,Interesting Narrative,7,1793,title_same
+tt_0011,y,Equiano-Interesting-8-0003,Equiano-Interesting-8-0003,duke of cumberland,,Duke of Cumberland,His Royal Highness the Duke of Cumberland.,Interesting Narrative,8,1794,title_same
+tt_0011,y,Equiano-Interesting-9-0003,Equiano-Interesting-9-0003,duke of cumberland,,Duke of Cumberland,His Royal Highness the Duke of Cumberland,Interesting Narrative,9,1794,title_same
+tt_0012,y,Equiano-Interesting-4-0085,Equiano-Interesting-4-0085,duke of leinster,,Duke of Leinster,His Grace the Duke of Leinster,Interesting Narrative,4,1791,title_same
+tt_0012,y,Equiano-Interesting-5-0233,Equiano-Interesting-5-0233,duke of leinster,,Duke of Leinster,His Grace the Duke of Leinster,Interesting Narrative,5,1792,title_same
+tt_0012,y,Equiano-Interesting-6-0506,Equiano-Interesting-6-0506,duke of leinster,,Duke of Leinster,His Grace the Duke of Leinster,Interesting Narrative,6,1793,title_same
+tt_0012,y,Equiano-Interesting-7-0521,Equiano-Interesting-7-0521,duke of leinster,,Duke of Leinster,His Grace the Duke of Leinster,Interesting Narrative,7,1793,title_same
+tt_0012,y,Equiano-Interesting-8-0763,Equiano-Interesting-8-0763,duke of leinster,,Duke of Leinster,His Grace the Duke of Leinster,Interesting Narrative,8,1794,title_same
+tt_0012,y,Equiano-Interesting-9-0765,Equiano-Interesting-9-0765,duke of leinster,,Duke of Leinster,His Grace the Duke of Leinster,Interesting Narrative,9,1794,title_same
+tt_0012,y,Sancho-Letters-1-0586,Sancho-Letters-1-0586,duke of leinster,,Duke of Leinster,His Grace the Duke of Leinster,Letters,1,1782,title_same
+tt_0013,y,Equiano-Interesting-1-0190,Equiano-Interesting-1-0190,duke of marlborough,,Duke of Marlborough,His Grace the Duke of Marlborough,Interesting Narrative,1,1789,title_same
+tt_0013,y,Equiano-Interesting-2-0240,Equiano-Interesting-2-0240,duke of marlborough,,Duke of Marlborough,His Grace the Duke of Marlborough,Interesting Narrative,2,1789,title_same
+tt_0013,y,Equiano-Interesting-3-0249,Equiano-Interesting-3-0249,duke of marlborough,,Duke of Marlborough,His Grace the Duke of Marlborough,Interesting Narrative,3,1790,title_same
+tt_0013,y,Equiano-Interesting-4-0294,Equiano-Interesting-4-0294,duke of marlborough,,Duke of Marlborough,His Grace the Duke of Marlborough,Interesting Narrative,4,1791,title_same
+tt_0013,y,Equiano-Interesting-5-0123,Equiano-Interesting-5-0123,duke of marlborough,,Duke of Marlborough,The Duke of Marlborough,Interesting Narrative,5,1792,title_same
+tt_0013,y,Equiano-Interesting-6-0130,Equiano-Interesting-6-0130,duke of marlborough,,Duke of Marlborough,The Duke of Marlborough,Interesting Narrative,6,1793,title_same
+tt_0013,y,Equiano-Interesting-7-0131,Equiano-Interesting-7-0131,duke of marlborough,,Duke of Marlborough,The Duke of Marlborough,Interesting Narrative,7,1793,title_same
+tt_0013,y,Equiano-Interesting-8-0136,Equiano-Interesting-8-0136,duke of marlborough,,Duke of Marlborough,The Duke of Marlborough,Interesting Narrative,8,1794,title_same
+tt_0013,y,Equiano-Interesting-9-0135,Equiano-Interesting-9-0135,duke of marlborough,,Duke of Marlborough,TheDukeof Marlborough,Interesting Narrative,9,1794,title_same
+tt_0014,y,Equiano-Interesting-1-0191,Equiano-Interesting-1-0191,duke of montague,,Duke of Montague,His Grace the Duke of Montague,Interesting Narrative,1,1789,title_same
+tt_0014,y,Equiano-Interesting-2-0241,Equiano-Interesting-2-0241,duke of montague,,Duke of Montague,His Grace the Duke of Montague,Interesting Narrative,2,1789,title_same
+tt_0014,y,Equiano-Interesting-3-0250,Equiano-Interesting-3-0250,duke of montague,,Duke of Montague,His Grace the Duke of Montague,Interesting Narrative,3,1790,title_same
+tt_0014,y,Equiano-Interesting-4-0295,Equiano-Interesting-4-0295,duke of montague,,Duke of Montague,His Grace the Duke of Montague,Interesting Narrative,4,1791,title_same
+tt_0014,y,Equiano-Interesting-5-0124,Equiano-Interesting-5-0124,duke of montague,,Duke of Montague,The Duke of Montague,Interesting Narrative,5,1792,title_same
+tt_0014,y,Equiano-Interesting-6-0131,Equiano-Interesting-6-0131,duke of montague,,Duke of Montague,The Duke of Montague,Interesting Narrative,6,1793,title_same
+tt_0014,y,Equiano-Interesting-7-0132,Equiano-Interesting-7-0132,duke of montague,,Duke of Montague,The Duke of Montague,Interesting Narrative,7,1793,title_same
+tt_0014,y,Equiano-Interesting-8-0137,Equiano-Interesting-8-0137,duke of montague,,Duke of Montague,The Duke of Montague,Interesting Narrative,8,1794,title_same
+tt_0014,y,Equiano-Interesting-9-0136,Equiano-Interesting-9-0136,duke of montague,,Duke of Montague,The Duke of Montague,Interesting Narrative,9,1794,title_same
+tt_0015,y,Equiano-Interesting-1-0213,Equiano-Interesting-1-0213,duke of northumberland,,Duke of Northumberland,His Grace the Duke of Northumberland,Interesting Narrative,1,1789,title_same
+tt_0015,y,Equiano-Interesting-2-0268,Equiano-Interesting-2-0268,duke of northumberland,,Duke of Northumberland,His Grace the Duke of Northumberland,Interesting Narrative,2,1789,title_same
+tt_0015,y,Equiano-Interesting-3-0277,Equiano-Interesting-3-0277,duke of northumberland,,Duke of Northumberland,His Grace the Duke of Northumberland,Interesting Narrative,3,1790,title_same
+tt_0015,y,Equiano-Interesting-4-0306,Equiano-Interesting-4-0306,duke of northumberland,,Duke of Northumberland,His Grace the Duke of Northumberland,Interesting Narrative,4,1791,title_same
+tt_0015,y,Equiano-Interesting-5-0137,Equiano-Interesting-5-0137,duke of northumberland,,Duke of Northumberland,The Duke of Northumberland,Interesting Narrative,5,1792,title_same
+tt_0015,y,Equiano-Interesting-6-0144,Equiano-Interesting-6-0144,duke of northumberland,,Duke of Northumberland,The Duke of Northumberland,Interesting Narrative,6,1793,title_same
+tt_0015,y,Equiano-Interesting-7-0145,Equiano-Interesting-7-0145,duke of northumberland,,Duke of Northumberland,The Duke of Northumberland,Interesting Narrative,7,1793,title_same
+tt_0015,y,Equiano-Interesting-8-0150,Equiano-Interesting-8-0150,duke of northumberland,,Duke of Northumberland,The Duke of Northumblerland,Interesting Narrative,8,1794,title_same
+tt_0015,y,Equiano-Interesting-9-0149,Equiano-Interesting-9-0149,duke of northumberland,,Duke of Northumberland,The Duke of Northumberland,Interesting Narrative,9,1794,title_same
+tt_0015,y,Sancho-Letters-1-0714,Sancho-Letters-1-0714,duke of northumberland,,Duke of Northumberland,His Grace the Duke of Northumberland,Letters,1,1782,title_same
+tt_0016,y,Equiano-Interesting-2-0298,Equiano-Interesting-2-0298,duke of queensberry,"James Douglas, 2nd Duke of Queensberry",Duke of Queensberry,His Grace the Duke of Queensberry,Interesting Narrative,2,1789,title_same
+tt_0016,y,Equiano-Interesting-3-0308,Equiano-Interesting-3-0308,duke of queensberry,"James Douglas, 2nd Duke of Queensberry",Duke of Queensberry,His Grace the Duke of Queensbury,Interesting Narrative,3,1790,title_same
+tt_0016,y,Equiano-Interesting-4-0318,Equiano-Interesting-4-0318,duke of queensberry,"James Douglas, 2nd Duke of Queensberry",Duke of Queensberry,His Grace the Duke of Queensbury,Interesting Narrative,4,1791,title_same
+tt_0016,y,Equiano-Interesting-5-0148,Equiano-Interesting-5-0148,duke of queensberry,"James Douglas, 2nd Duke of Queensberry",Duke of Queensberry,The Duke of Queensbury,Interesting Narrative,5,1792,title_same
+tt_0016,y,Equiano-Interesting-6-0160,Equiano-Interesting-6-0160,duke of queensberry,"James Douglas, 2nd Duke of Queensberry",Duke of Queensberry,The Duke of Queensbury,Interesting Narrative,6,1793,title_same
+tt_0016,y,Equiano-Interesting-7-0163,Equiano-Interesting-7-0163,duke of queensberry,"James Douglas, 2nd Duke of Queensberry",Duke of Queensberry,The Duke of Queensberry,Interesting Narrative,7,1793,title_same
+tt_0016,y,Equiano-Interesting-8-0168,Equiano-Interesting-8-0168,duke of queensberry,"James Douglas, 2nd Duke of Queensberry",Duke of Queensberry,The Duke of Queensberry,Interesting Narrative,8,1794,title_same
+tt_0016,y,Equiano-Interesting-9-0167,Equiano-Interesting-9-0167,duke of queensberry,"James Douglas, 2nd Duke of Queensberry",Duke of Queensberry,The Duke of Queensberry,Interesting Narrative,9,1794,title_same
+tt_0016,y,Sancho-Letters-1-0834,Sancho-Letters-1-0834,duke of queensberry,"James Douglas, 2nd Duke of Queensberry",Duke of Queensberry,His Grace the Duke of Queensberry,Letters,1,1782,title_same
+tt_0017,y,Equiano-Interesting-1-0251,Equiano-Interesting-1-0251,duke of st. alban's,,Duke of St. Alban's,His Grace the Duke of St. Albans,Interesting Narrative,1,1789,title_same
+tt_0017,y,Equiano-Interesting-2-0316,Equiano-Interesting-2-0316,duke of st. alban's,,Duke of St. Alban's,His Grace the Duke of St. Albans,Interesting Narrative,2,1789,title_same
+tt_0017,y,Equiano-Interesting-3-0326,Equiano-Interesting-3-0326,duke of st. alban's,,Duke of St. Alban's,His Grace the Duke of St. Alban's,Interesting Narrative,3,1790,title_same
+tt_0017,y,Equiano-Interesting-4-0326,Equiano-Interesting-4-0326,duke of st. alban's,,Duke of St. Alban's,His Grace the Duke of St. Alban's,Interesting Narrative,4,1791,title_same
+tt_0017,y,Equiano-Interesting-5-0157,Equiano-Interesting-5-0157,duke of st. alban's,,Duke of St. Alban's,The Duke of St Alban's,Interesting Narrative,5,1792,title_same
+tt_0017,y,Equiano-Interesting-6-0171,Equiano-Interesting-6-0171,duke of st. alban's,,Duke of St. Alban's,The Duke of St. Alban's,Interesting Narrative,6,1793,title_same
+tt_0017,y,Equiano-Interesting-7-0175,Equiano-Interesting-7-0175,duke of st. alban's,,Duke of St. Alban's,The Duke of St. Alban's,Interesting Narrative,7,1793,title_same
+tt_0017,y,Equiano-Interesting-8-0179,Equiano-Interesting-8-0179,duke of st. alban's,,Duke of St. Alban's,The Duke of St. Alban's,Interesting Narrative,8,1794,title_same
+tt_0017,y,Equiano-Interesting-9-0179,Equiano-Interesting-9-0179,duke of st. alban's,,Duke of St. Alban's,The Duke of St. Alban's,Interesting Narrative,9,1794,title_same
+tt_0018,y,Equiano-Interesting-1-0002,Equiano-Interesting-1-0002,duke of york,,Duke of York,His Royal Highness the Duke of York.,Interesting Narrative,1,1789,title_same
+tt_0018,y,Equiano-Interesting-2-0002,Equiano-Interesting-2-0002,duke of york,,Duke of York,His Royal Highness the Duke of York.,Interesting Narrative,2,1789,title_same
+tt_0018,y,Equiano-Interesting-3-0002,Equiano-Interesting-3-0002,duke of york,,Duke of York,His Royal Highness the Duke of York.,Interesting Narrative,3,1790,title_same
+tt_0018,y,Equiano-Interesting-4-0164,Equiano-Interesting-4-0164,duke of york,,Duke of York,His Roya  Highness the Duke of York.,Interesting Narrative,4,1791,title_same
+tt_0018,y,Equiano-Interesting-5-0002,Equiano-Interesting-5-0002,duke of york,,Duke of York,His Royal Highness the Duke of York.,Interesting Narrative,5,1792,title_same
+tt_0018,y,Equiano-Interesting-6-0002,Equiano-Interesting-6-0002,duke of york,,Duke of York,His Royal Highness the Duke of York.,Interesting Narrative,6,1793,title_same
+tt_0018,y,Equiano-Interesting-7-0002,Equiano-Interesting-7-0002,duke of york,,Duke of York,His Royal Highness the Duke of York.,Interesting Narrative,7,1793,title_same
+tt_0018,y,Equiano-Interesting-8-0002,Equiano-Interesting-8-0002,duke of york,,Duke of York,His Royal Highness the Duke of York.,Interesting Narrative,8,1794,title_same
+tt_0018,y,Equiano-Interesting-9-0002,Equiano-Interesting-9-0002,duke of york,,Duke of York,His Royal Highness the Duke of York,Interesting Narrative,9,1794,title_same
+tt_0019,y,Equiano-Interesting-1-0003,Equiano-Interesting-1-0003,earl of ailesbury,,Right Hon. the Earl of Ailesbury,The Right Hon. the Earl of Ailesbury,Interesting Narrative,1,1789,title_same
+tt_0019,y,Equiano-Interesting-2-0004,Equiano-Interesting-2-0004,earl of ailesbury,,Right Hon. the Earl of Ailesbury,The Right Hon. the Earl of Ailesbury,Interesting Narrative,2,1789,title_same
+tt_0019,y,Equiano-Interesting-3-0004,Equiano-Interesting-3-0004,earl of ailesbury,,Right Hon. the Earl of Ailesbury,The Right Hon. the Earl of Ailesbury,Interesting Narrative,3,1790,title_same
+tt_0019,y,Equiano-Interesting-4-0166,Equiano-Interesting-4-0166,earl of ailesbury,,Right Hon. the Earl of Ailesbury,The Right Hon. the Earl of Ailesbury,Interesting Narrative,4,1791,title_same
+tt_0019,y,Equiano-Interesting-5-0004,Equiano-Interesting-5-0004,earl of ailesbury,,Earl of Ailesbury,The Earl of Ailesbury,Interesting Narrative,5,1792,title_same
+tt_0019,y,Equiano-Interesting-6-0004,Equiano-Interesting-6-0004,earl of ailesbury,,Earl of Ailesbury,The Earl of Ailesbury,Interesting Narrative,6,1793,title_same
+tt_0019,y,Equiano-Interesting-7-0004,Equiano-Interesting-7-0004,earl of ailesbury,,Earl of Ailesbury,The Earl of Ailesbury,Interesting Narrative,7,1793,title_same
+tt_0019,y,Equiano-Interesting-8-0004,Equiano-Interesting-8-0004,earl of ailesbury,,Earl of Ailesbury,The Earl of Ailesbury,Interesting Narrative,8,1794,title_same
+tt_0019,y,Equiano-Interesting-9-0004,Equiano-Interesting-9-0004,earl of ailesbury,,Earl of Ailesbury,The Earl of Ailesbury,Interesting Narrative,9,1794,title_same
+tt_0020,y,Equiano-Interesting-4-0010,Equiano-Interesting-4-0010,earl of belvedere,,Earl of Belvedere,"Earl of Belvedere, 10 copies",Interesting Narrative,4,1791,title_same
+tt_0020,y,Equiano-Interesting-5-0206,Equiano-Interesting-5-0206,earl of belvedere,,Right Hon. the Earl of Belvedere,Right Hon. the Earl of Belvedere,Interesting Narrative,5,1792,title_same
+tt_0020,y,Equiano-Interesting-6-0478,Equiano-Interesting-6-0478,earl of belvedere,,Right Hon. the Earl of Belvedere,Right Hon. the Earl of Belvedere,Interesting Narrative,6,1793,title_same
+tt_0020,y,Equiano-Interesting-7-0493,Equiano-Interesting-7-0493,earl of belvedere,,Right Hon. the Earl of Belvedere,Right Hon. the Earl of Belvedere,Interesting Narrative,7,1793,title_same
+tt_0020,y,Equiano-Interesting-8-0735,Equiano-Interesting-8-0735,earl of belvedere,,Right Hon. the Earl of Belvedere,Right Hon. the Earl of Belvedere,Interesting Narrative,8,1794,title_same
+tt_0020,y,Equiano-Interesting-9-0737,Equiano-Interesting-9-0737,earl of belvedere,,Right Hon. the Earl of Belvedere,Right Hon. the Earl of Belvedere,Interesting Narrative,9,1794,title_same
+tt_0021,y,Equiano-Interesting-1-0078,Equiano-Interesting-1-0078,earl of dartmouth,,Right Hon. the Earl of Dartmouth,The Right Hon. the Earl of Dartmouth,Interesting Narrative,1,1789,title_same
+tt_0021,y,Equiano-Interesting-2-0095,Equiano-Interesting-2-0095,earl of dartmouth,,Right Hon. the Earl of Dartmouth,The Right Hon. the Earl of Dartmouth,Interesting Narrative,2,1789,title_same
+tt_0021,y,Equiano-Interesting-3-0100,Equiano-Interesting-3-0100,earl of dartmouth,,Right Hon. the Earl of Dartmouth,The Right Hon. the Earl of Darthmouth,Interesting Narrative,3,1790,title_same
+tt_0021,y,Equiano-Interesting-4-0222,Equiano-Interesting-4-0222,earl of dartmouth,,Right Hon. the Earl of Dartmouth,The Right Hon. the Earl of Darthmouth,Interesting Narrative,4,1791,title_same
+tt_0021,y,Equiano-Interesting-5-0057,Equiano-Interesting-5-0057,earl of dartmouth,,Earl of Dartmouth,The Earl of Dartmouth,Interesting Narrative,5,1792,title_same
+tt_0021,y,Equiano-Interesting-6-0058,Equiano-Interesting-6-0058,earl of dartmouth,,Earl of Dartmouth,The Earl of Dartmouth,Interesting Narrative,6,1793,title_same
+tt_0021,y,Equiano-Interesting-7-0058,Equiano-Interesting-7-0058,earl of dartmouth,,Earl of Dartmouth,The Earl of Darthmouth,Interesting Narrative,7,1793,title_same
+tt_0021,y,Equiano-Interesting-8-0059,Equiano-Interesting-8-0059,earl of dartmouth,,Earl of Dartmouth,The Earl of Darthmouth,Interesting Narrative,8,1794,title_same
+tt_0021,y,Equiano-Interesting-9-0059,Equiano-Interesting-9-0059,earl of dartmouth,,Earl of Dartmouth,The Earl of Dartmouth,Interesting Narrative,9,1794,title_same
+tt_0022,y,Equiano-Interesting-1-0079,Equiano-Interesting-1-0079,earl of derby,,Right Hon. the Earl of Derby,The Right Hon. the Earl of Derby,Interesting Narrative,1,1789,title_same
+tt_0022,y,Equiano-Interesting-2-0096,Equiano-Interesting-2-0096,earl of derby,,Right Hon. the Earl of Derby,The Right Hon. the Earl of Derby,Interesting Narrative,2,1789,title_same
+tt_0022,y,Equiano-Interesting-3-0101,Equiano-Interesting-3-0101,earl of derby,,Right Hon. the Earl of Derby,The Right Hon. the Earl of Derby,Interesting Narrative,3,1790,title_same
+tt_0022,y,Equiano-Interesting-4-0223,Equiano-Interesting-4-0223,earl of derby,,Right Hon. the Earl of Derby,The Right Hon. the Earl of Derby,Interesting Narrative,4,1791,title_same
+tt_0022,y,Equiano-Interesting-5-0058,Equiano-Interesting-5-0058,earl of derby,,Earl of Derby,The Earl of Derby,Interesting Narrative,5,1792,title_same
+tt_0022,y,Equiano-Interesting-6-0059,Equiano-Interesting-6-0059,earl of derby,,Earl of Derby,The Earl of Derby,Interesting Narrative,6,1793,title_same
+tt_0022,y,Equiano-Interesting-7-0059,Equiano-Interesting-7-0059,earl of derby,,Earl of Derby,The Earl of Derby,Interesting Narrative,7,1793,title_same
+tt_0022,y,Equiano-Interesting-8-0060,Equiano-Interesting-8-0060,earl of derby,,Earl of Derby,The Earl of Derby,Interesting Narrative,8,1794,title_same
+tt_0022,y,Equiano-Interesting-9-0060,Equiano-Interesting-9-0060,earl of derby,,Earl of Derby,The Earl of Derby,Interesting Narrative,9,1794,title_same
+tt_0022,y,Sancho-Letters-1-0268,Sancho-Letters-1-0268,earl of derby,,Earl of Derby,Earl of Derby,Letters,1,1782,title_same
+tt_0023,y,Equiano-Interesting-1-0091,Equiano-Interesting-1-0091,earl of essex,,Right Hon. the Earl of Essex,The Right Hon. the Earl of Essex,Interesting Narrative,1,1789,title_same
+tt_0023,y,Equiano-Interesting-2-0112,Equiano-Interesting-2-0112,earl of essex,,Right Hon. the Earl of Essex,The Right Hon. the Earl of Essex,Interesting Narrative,2,1789,title_same
+tt_0023,y,Equiano-Interesting-3-0117,Equiano-Interesting-3-0117,earl of essex,,Right Hon. the Earl of Essex,The Right Hon. the Earl of Essex,Interesting Narrative,3,1790,title_same
+tt_0023,y,Equiano-Interesting-4-0231,Equiano-Interesting-4-0231,earl of essex,,Right Hon. the Earl of Essex,The Right Hon. the Earl of Essex,Interesting Narrative,4,1791,title_same
+tt_0023,y,Equiano-Interesting-5-0068,Equiano-Interesting-5-0068,earl of essex,,Earl of Essex,The Earl of Essex,Interesting Narrative,5,1792,title_same
+tt_0023,y,Equiano-Interesting-6-0069,Equiano-Interesting-6-0069,earl of essex,,Earl of Essex,The Earl of Essex,Interesting Narrative,6,1793,title_same
+tt_0023,y,Equiano-Interesting-7-0069,Equiano-Interesting-7-0069,earl of essex,,Earl of Essex,The Earl of Essex,Interesting Narrative,7,1793,title_same
+tt_0023,y,Equiano-Interesting-8-0072,Equiano-Interesting-8-0072,earl of essex,,Earl of Essex,The Earl of Essex,Interesting Narrative,8,1794,title_same
+tt_0023,y,Equiano-Interesting-9-0072,Equiano-Interesting-9-0072,earl of essex,,Earl of Essex,The Earl of Essex,Interesting Narrative,9,1794,title_same
+tt_0024,y,Equiano-Interesting-1-0106,Equiano-Interesting-1-0106,earl of gainsborough,,Right Hon. the Earl of Gainsborough,The Right Hon. the Earl of Gainsborough,Interesting Narrative,1,1789,title_same
+tt_0024,y,Equiano-Interesting-2-0129,Equiano-Interesting-2-0129,earl of gainsborough,,Right Hon. the Earl of Gainsborough,The Right Hon. the Earl of Gainsborough,Interesting Narrative,2,1789,title_same
+tt_0024,y,Equiano-Interesting-3-0134,Equiano-Interesting-3-0134,earl of gainsborough,,Right Hon. the Earl of Gainsborough,The Right Hon. the Earl of Gainsborough,Interesting Narrative,3,1790,title_same
+tt_0024,y,Equiano-Interesting-4-0240,Equiano-Interesting-4-0240,earl of gainsborough,,Right Hon. the Earl of Gainsborough,The Right Hon. the Earl of Gainsborough,Interesting Narrative,4,1791,title_same
+tt_0024,y,Equiano-Interesting-5-0076,Equiano-Interesting-5-0076,earl of gainsborough,,Earl of Gainsborough,The Earl of Gainsborough,Interesting Narrative,5,1792,title_same
+tt_0024,y,Equiano-Interesting-6-0079,Equiano-Interesting-6-0079,earl of gainsborough,,Earl of Gainsborough,The Earl of Gainsborough,Interesting Narrative,6,1793,title_same
+tt_0024,y,Equiano-Interesting-7-0079,Equiano-Interesting-7-0079,earl of gainsborough,,Earl of Gainsborough,The Earl of Gainsborough,Interesting Narrative,7,1793,title_same
+tt_0024,y,Equiano-Interesting-8-0082,Equiano-Interesting-8-0082,earl of gainsborough,,Earl of Gainsborough,The Earl of Gainsborough,Interesting Narrative,8,1794,title_same
+tt_0024,y,Equiano-Interesting-9-0082,Equiano-Interesting-9-0082,earl of gainsborough,,Earl of Gainsborough,The Earl of Gainsborough,Interesting Narrative,9,1794,title_same
+tt_0025,y,Equiano-Interesting-1-0107,Equiano-Interesting-1-0107,earl of grosvenor,,Right Hon. the Earl of Grosvenor,The Right Hon. the Earl of Grosvenor,Interesting Narrative,1,1789,title_same
+tt_0025,y,Equiano-Interesting-2-0130,Equiano-Interesting-2-0130,earl of grosvenor,,Right Hon. the Earl of Grosvenor,The Right Hon. the Earl of Grosvenor,Interesting Narrative,2,1789,title_same
+tt_0025,y,Equiano-Interesting-3-0135,Equiano-Interesting-3-0135,earl of grosvenor,,Right Hon. the Earl of Grosvenor,The Right Hon. the Earl of Grosvenor,Interesting Narrative,3,1790,title_same
+tt_0025,y,Equiano-Interesting-4-0241,Equiano-Interesting-4-0241,earl of grosvenor,,Right Hon. the Earl of Grosvenor,The Right Hon. the Earl of Grosvendor,Interesting Narrative,4,1791,title_same
+tt_0025,y,Equiano-Interesting-5-0077,Equiano-Interesting-5-0077,earl of grosvenor,,Earl of Grosvenor,The Earl of Grosvenor,Interesting Narrative,5,1792,title_same
+tt_0025,y,Equiano-Interesting-6-0080,Equiano-Interesting-6-0080,earl of grosvenor,,Earl of Grosvenor,The Earl of Grosvenor,Interesting Narrative,6,1793,title_same
+tt_0025,y,Equiano-Interesting-7-0080,Equiano-Interesting-7-0080,earl of grosvenor,,Earl of Grosvenor,The Earl of Grosvenor,Interesting Narrative,7,1793,title_same
+tt_0025,y,Equiano-Interesting-8-0083,Equiano-Interesting-8-0083,earl of grosvenor,,Earl of Grosvenor,The Earl of Grosvenor,Interesting Narrative,8,1794,title_same
+tt_0025,y,Equiano-Interesting-9-0083,Equiano-Interesting-9-0083,earl of grosvenor,,Earl of Grosvenor,The Earl of Grosvenor,Interesting Narrative,9,1794,title_same
+tt_0026,y,Equiano-Interesting-1-0128,Equiano-Interesting-1-0128,earl of hopetoun,,Right Hon. the Earl of Hopetoun,The Right Hon. the Earl of Hopetoun,Interesting Narrative,1,1789,title_same
+tt_0026,y,Equiano-Interesting-2-0153,Equiano-Interesting-2-0153,earl of hopetoun,,Right Hon. the Earl of Hopetoun,The Right Hon. the Earl of Hopetoun,Interesting Narrative,2,1789,title_same
+tt_0026,y,Equiano-Interesting-3-0158,Equiano-Interesting-3-0158,earl of hopetoun,,Right Hon. the Earl of Hopetoun,The Right Hon. the Earl of Hopetoun,Interesting Narrative,3,1790,title_same
+tt_0026,y,Equiano-Interesting-4-0253,Equiano-Interesting-4-0253,earl of hopetoun,,Right Hon. the Earl of Hopetoun,The Right Hon. the Earl of Hopetown,Interesting Narrative,4,1791,title_same
+tt_0026,y,Equiano-Interesting-5-0086,Equiano-Interesting-5-0086,earl of hopetoun,,Earl of Hopetoun,The Earl of Hopetoun,Interesting Narrative,5,1792,title_same
+tt_0026,y,Equiano-Interesting-6-0091,Equiano-Interesting-6-0091,earl of hopetoun,,Earl of Hopetoun,The Earl of Hopetoun,Interesting Narrative,6,1793,title_same
+tt_0026,y,Equiano-Interesting-7-0091,Equiano-Interesting-7-0091,earl of hopetoun,,Earl of Hopetoun,The Earl of Hopetoun,Interesting Narrative,7,1793,title_same
+tt_0026,y,Equiano-Interesting-8-0094,Equiano-Interesting-8-0094,earl of hopetoun,,Earl of Hopetoun,The Earl of Hopetoun,Interesting Narrative,8,1794,title_same
+tt_0026,y,Equiano-Interesting-9-0094,Equiano-Interesting-9-0094,earl of hopetoun,,Earl of Hopetoun,The Earl of Hopetoun,Interesting Narrative,9,1794,title_same
+tt_0027,y,Equiano-Interesting-5-0237,Equiano-Interesting-5-0237,earl of miltown,,Right Hon. the Earl of Miltown,The Rt. Hon. the Earl of Miltown,Interesting Narrative,5,1792,title_same
+tt_0027,y,Equiano-Interesting-6-0510,Equiano-Interesting-6-0510,earl of miltown,,Right Hon. the Earl of Miltown,The Right Hon. the Earl of Miltown,Interesting Narrative,6,1793,title_same
+tt_0027,y,Equiano-Interesting-7-0525,Equiano-Interesting-7-0525,earl of miltown,,Right Hon. the Earl of Miltown,The Rt. Hon. the Earl of Miltown,Interesting Narrative,7,1793,title_same
+tt_0027,y,Equiano-Interesting-8-0767,Equiano-Interesting-8-0767,earl of miltown,,Right Hon. the Earl of Miltown,The Rt. Hon. the Earl of Miltown,Interesting Narrative,8,1794,title_same
+tt_0027,y,Equiano-Interesting-9-0769,Equiano-Interesting-9-0769,earl of miltown,,Right Hon. the Earl of Miltown,The Rt. Hon. the Earl of Miltown,Interesting Narrative,9,1794,title_same
+tt_0028,y,Equiano-Interesting-5-0246,Equiano-Interesting-5-0246,earl of ormond,,Hon. Earl of Ormond,Hon. Earl of Ormond,Interesting Narrative,5,1792,title_same
+tt_0028,y,Equiano-Interesting-6-0519,Equiano-Interesting-6-0519,earl of ormond,,Hon. Earl of Ormond,Hon. Earl of Ormond,Interesting Narrative,6,1793,title_same
+tt_0028,y,Equiano-Interesting-7-0534,Equiano-Interesting-7-0534,earl of ormond,,Hon. Earl of Ormond,Hon. Earl of Ormond,Interesting Narrative,7,1793,title_same
+tt_0028,y,Equiano-Interesting-8-0776,Equiano-Interesting-8-0776,earl of ormond,,Hon. Earl of Ormond,Hon. Earl of Ormond,Interesting Narrative,8,1794,title_same
+tt_0028,y,Equiano-Interesting-9-0779,Equiano-Interesting-9-0779,earl of ormond,,Right Hon. Earl of Ormond,Right. Hon. Earl of Ormond,Interesting Narrative,9,1794,title_same
+tt_0029,y,Equiano-Interesting-1-0255,Equiano-Interesting-1-0255,earl of scarborough,,Right Hon. the Earl of Scarborough,The Right Hon. the Earl of Scarbrough,Interesting Narrative,1,1789,title_same
+tt_0029,y,Equiano-Interesting-2-0320,Equiano-Interesting-2-0320,earl of scarborough,,Right Hon. the Earl of Scarborough,The Right Hon. the Earl of Scarbrough,Interesting Narrative,2,1789,title_same
+tt_0029,y,Equiano-Interesting-3-0330,Equiano-Interesting-3-0330,earl of scarborough,,Right Hon. the Earl of Scarborough,The Right Hon. the Earl of Scarborough,Interesting Narrative,3,1790,title_same
+tt_0029,y,Equiano-Interesting-4-0330,Equiano-Interesting-4-0330,earl of scarborough,,Right Hon. the Earl of Scarborough,The Right Hon. the Earl of Scarborough,Interesting Narrative,4,1791,title_same
+tt_0029,y,Equiano-Interesting-5-0161,Equiano-Interesting-5-0161,earl of scarborough,,Earl of Scarborough,The Earl of Scarborough,Interesting Narrative,5,1792,title_same
+tt_0029,y,Equiano-Interesting-6-0175,Equiano-Interesting-6-0175,earl of scarborough,,Earl of Scarborough,The Earl of Scarborough,Interesting Narrative,6,1793,title_same
+tt_0029,y,Equiano-Interesting-7-0179,Equiano-Interesting-7-0179,earl of scarborough,,Earl of Scarborough,The Earl of Scarborough,Interesting Narrative,7,1793,title_same
+tt_0029,y,Equiano-Interesting-8-0183,Equiano-Interesting-8-0183,earl of scarborough,,Earl of Scarborough,The Earl of Scarborough,Interesting Narrative,8,1794,title_same
+tt_0029,y,Equiano-Interesting-9-0183,Equiano-Interesting-9-0183,earl of scarborough,,Earl of Scarborough,The Earl of Scarborough,Interesting Narrative,9,1794,title_same
+tt_0030,y,Equiano-Interesting-1-0254,Equiano-Interesting-1-0254,earl of stanhope,,Right Hon. Earl of Stanhope,"The Right Hon. Earl Stanhope, 3 copies",Interesting Narrative,1,1789,title_same
+tt_0030,y,Equiano-Interesting-2-0319,Equiano-Interesting-2-0319,earl of stanhope,,Right Hon. Earl of Stanhope,"The Right Hon. Earl Stanhope, 3 copies",Interesting Narrative,2,1789,title_same
+tt_0030,y,Equiano-Interesting-3-0329,Equiano-Interesting-3-0329,earl of stanhope,,Right Hon. Earl of Stanhope,"The Right Hon. Earl of Stanhope, 3 copies",Interesting Narrative,3,1790,title_same
+tt_0030,y,Equiano-Interesting-4-0329,Equiano-Interesting-4-0329,earl of stanhope,,Right Hon. Earl of Stanhope,"The Right Hon. Earl of Stanhope, 3 copies",Interesting Narrative,4,1791,title_same
+tt_0030,y,Equiano-Interesting-5-0160,Equiano-Interesting-5-0160,earl of stanhope,,Earl of Stanhope,The Earl of Stanhope,Interesting Narrative,5,1792,title_same
+tt_0030,y,Equiano-Interesting-6-0174,Equiano-Interesting-6-0174,earl of stanhope,,Earl of Stanhope,The Earl of Stanhope,Interesting Narrative,6,1793,title_same
+tt_0030,y,Equiano-Interesting-7-0178,Equiano-Interesting-7-0178,earl of stanhope,,Earl of Stanhope,The Earl of Stanhope,Interesting Narrative,7,1793,title_same
+tt_0030,y,Equiano-Interesting-8-0182,Equiano-Interesting-8-0182,earl of stanhope,,Earl of Stanhope,The Earl of Stanhope,Interesting Narrative,8,1794,title_same
+tt_0030,y,Equiano-Interesting-9-0182,Equiano-Interesting-9-0182,earl of stanhope,,Earl of Stanhope,The Earl of Stanhope,Interesting Narrative,9,1794,title_same
+tt_0031,y,Equiano-Interesting-1-0288,Equiano-Interesting-1-0288,earl of warwick,,Right Hon. Earl of Warwick,The Right Hon. Earl of Warnick,Interesting Narrative,1,1789,title_same
+tt_0031,y,Equiano-Interesting-2-0363,Equiano-Interesting-2-0363,earl of warwick,,Right Hon. Earl of Warwick,The Right Hon. Earl of Warwick,Interesting Narrative,2,1789,title_same
+tt_0031,y,Equiano-Interesting-3-0377,Equiano-Interesting-3-0377,earl of warwick,,Right Hon. Earl of Warwick,The Right Hon. Earl of Warwick,Interesting Narrative,3,1790,title_same
+tt_0031,y,Equiano-Interesting-4-0350,Equiano-Interesting-4-0350,earl of warwick,,Right Hon. Earl of Warwick,The Right Hon. Earl of Warwick,Interesting Narrative,4,1791,title_same
+tt_0031,y,Equiano-Interesting-5-0180,Equiano-Interesting-5-0180,earl of warwick,,Hon. Earl of Warwick,Hon. Earl of Warwick,Interesting Narrative,5,1792,title_same
+tt_0031,y,Equiano-Interesting-6-0195,Equiano-Interesting-6-0195,earl of warwick,,Hon. Earl of Warwick,Hon. Earl of Warwick,Interesting Narrative,6,1793,title_same
+tt_0031,y,Equiano-Interesting-7-0200,Equiano-Interesting-7-0200,earl of warwick,,Hon. Earl of Warwick,Hon. Earl of Warwick,Interesting Narrative,7,1793,title_same
+tt_0031,y,Equiano-Interesting-8-0206,Equiano-Interesting-8-0206,earl of warwick,,Hon. Earl of Warwick,Hon. Earl of Warwick,Interesting Narrative,8,1794,title_same
+tt_0031,y,Equiano-Interesting-9-0206,Equiano-Interesting-9-0206,earl of warwick,,Hon. Earl of Warwick,Hon. Earl of Warwick,Interesting Narrative,9,1794,title_same
+tt_0032,y,Equiano-Interesting-1-0060,Equiano-Interesting-1-0060,lady almiria carpenter,,Lady Almiria Carpenter,Lady Almiria Carpenter,Interesting Narrative,1,1789,title_same
+tt_0032,y,Equiano-Interesting-2-0075,Equiano-Interesting-2-0075,lady almiria carpenter,,Lady Almiria Carpenter,Lady Almiria Carpenter,Interesting Narrative,2,1789,title_same
+tt_0032,y,Equiano-Interesting-3-0077,Equiano-Interesting-3-0077,lady almiria carpenter,,Lady Almiria Carpenter,Lady Almiria Carpenter,Interesting Narrative,3,1790,title_same
+tt_0032,y,Equiano-Interesting-4-0212,Equiano-Interesting-4-0212,lady almiria carpenter,,Lady Almiria Carpenter,Lady Almiria Carpenter,Interesting Narrative,4,1791,title_same
+tt_0032,y,Equiano-Interesting-5-0048,Equiano-Interesting-5-0048,lady almiria carpenter,,Lady Almiria Carpenter,Lady Almiria Carpenter,Interesting Narrative,5,1792,title_same
+tt_0032,y,Equiano-Interesting-6-0049,Equiano-Interesting-6-0049,lady almiria carpenter,,Lady Almiria Carpenter,Lady Almiria Carpenter,Interesting Narrative,6,1793,title_same
+tt_0032,y,Equiano-Interesting-7-0048,Equiano-Interesting-7-0048,lady almiria carpenter,,Lady Almiria Carpenter,Lady Almiria Carpenter,Interesting Narrative,7,1793,title_same
+tt_0032,y,Equiano-Interesting-9-0049,Equiano-Interesting-9-0049,lady almiria carpenter,,Lady Almiria Carpenter,Lady Almiria Carpenter,Interesting Narrative,9,1794,title_same
+tt_0033,y,Equiano-Interesting-1-0094,Equiano-Interesting-1-0094,lady ann erskine,,Lady Ann Erskine,Lady Ann Erskine,Interesting Narrative,1,1789,title_same
+tt_0033,y,Equiano-Interesting-2-0115,Equiano-Interesting-2-0115,lady ann erskine,,Lady Ann Erskine,Lady Ann Erskine,Interesting Narrative,2,1789,title_same
+tt_0033,y,Equiano-Interesting-3-0120,Equiano-Interesting-3-0120,lady ann erskine,,Lady Ann Erskine,Lady Ann Erskine,Interesting Narrative,3,1790,title_same
+tt_0033,y,Equiano-Interesting-4-0234,Equiano-Interesting-4-0234,lady ann erskine,,Lady Ann Erskine,Lady Ann Erskine,Interesting Narrative,4,1791,title_same
+tt_0033,y,Equiano-Interesting-5-0071,Equiano-Interesting-5-0071,lady ann erskine,,Lady Ann Erskine,Lady Ann Erskine,Interesting Narrative,5,1792,title_same
+tt_0033,y,Equiano-Interesting-6-0072,Equiano-Interesting-6-0072,lady ann erskine,,Lady Ann Erskine,Lady Ann Erskine,Interesting Narrative,6,1793,title_same
+tt_0033,y,Equiano-Interesting-7-0073,Equiano-Interesting-7-0073,lady ann erskine,,Lady Ann Erskine,Lady Ann Erskine,Interesting Narrative,7,1793,title_same
+tt_0033,y,Equiano-Interesting-8-0076,Equiano-Interesting-8-0076,lady ann erskine,,Lady Ann Erskine,Lady Ann Erskine,Interesting Narrative,8,1794,title_same
+tt_0033,y,Equiano-Interesting-9-0076,Equiano-Interesting-9-0076,lady ann erskine,,Lady Ann Erskine,Lady Ann Erskine,Interesting Narrative,9,1794,title_same
+tt_0034,y,Equiano-Interesting-5-0261,Equiano-Interesting-5-0261,lady cecilia la touche,,Lady Cecilia La Touche,Lady Cecilia La Touche,Interesting Narrative,5,1792,title_same
+tt_0034,y,Equiano-Interesting-6-0534,Equiano-Interesting-6-0534,lady cecilia la touche,,Lady Cecilia La Touche,Lady Cecilia La Touche,Interesting Narrative,6,1793,title_same
+tt_0034,y,Equiano-Interesting-7-0549,Equiano-Interesting-7-0549,lady cecilia la touche,,Lady Cecilia La Touche,Lady Cecilia La Touche,Interesting Narrative,7,1793,title_same
+tt_0035,y,Equiano-Interesting-4-0139,Equiano-Interesting-4-0139,lady celia la touche,,Lady Celia La Touche,Lady Ceilia La Touche,Interesting Narrative,4,1791,title_same
+tt_0035,y,Equiano-Interesting-9-0794,Equiano-Interesting-9-0794,lady celia la touche,,Lady Celia La Touche,Lady Celia La Touche,Interesting Narrative,9,1794,title_same
+tt_0036,y,Equiano-Interesting-8-0766,Equiano-Interesting-8-0766,lady louth,,Lady Louth of Drogheda,"Lady Louth, of Drogheda",Interesting Narrative,8,1794,title_same
+tt_0036,y,Equiano-Interesting-9-0768,Equiano-Interesting-9-0768,lady louth,,Lady Louth of Drogheda,"Lady Louth, of Drogheda",Interesting Narrative,9,1794,title_same
+tt_0037,y,Equiano-Interesting-5-0236,Equiano-Interesting-5-0236,lady louth of drogheda,,Lady Louth of Drogheda,Lady Louth of Drogheda,Interesting Narrative,5,1792,title_same
+tt_0037,y,Equiano-Interesting-6-0509,Equiano-Interesting-6-0509,lady louth of drogheda,,Lady Louth of Drogheda,Lady Louth of Drogheda,Interesting Narrative,6,1793,title_same
+tt_0037,y,Equiano-Interesting-7-0524,Equiano-Interesting-7-0524,lady louth of drogheda,,Lady Louth of Drogheda,Lady Louth of Drogheda,Interesting Narrative,7,1793,title_same
+tt_0039,y,Equiano-Interesting-1-0195,Equiano-Interesting-1-0195,lady middleton,,Lady Middleton,Lady Middleton,Interesting Narrative,1,1789,title_same
+tt_0039,y,Equiano-Interesting-2-0245,Equiano-Interesting-2-0245,lady middleton,,Lady Middleton,Lady Middleton,Interesting Narrative,2,1789,title_same
+tt_0039,y,Equiano-Interesting-3-0254,Equiano-Interesting-3-0254,lady middleton,,Lady Middleton,Lady Middleton,Interesting Narrative,3,1790,title_same
+tt_0039,y,Equiano-Interesting-4-0298,Equiano-Interesting-4-0298,lady middleton,,Lady Middleton,Lady Middleton,Interesting Narrative,4,1791,title_same
+tt_0039,y,Equiano-Interesting-5-0128,Equiano-Interesting-5-0128,lady middleton,,Lady Middleton,Lady Middleton,Interesting Narrative,5,1792,title_same
+tt_0039,y,Equiano-Interesting-6-0137,Equiano-Interesting-6-0137,lady middleton,,Lady Middleton,Lady Middleton,Interesting Narrative,6,1793,title_same
+tt_0039,y,Equiano-Interesting-7-0136,Equiano-Interesting-7-0136,lady middleton,,Lady Middleton,Lady Middleton,Interesting Narrative,7,1793,title_same
+tt_0039,y,Equiano-Interesting-8-0141,Equiano-Interesting-8-0141,lady middleton,,Lady Middleton,Lady Middleton,Interesting Narrative,8,1794,title_same
+tt_0039,y,Equiano-Interesting-9-0140,Equiano-Interesting-9-0140,lady middleton,,Lady Middleton,Lady Middleton,Interesting Narrative,9,1794,title_same
+tt_0039,y,Sancho-Letters-1-0640,Sancho-Letters-1-0640,lady middleton,,Lady Middleton,Lady Middleton,Letters,1,1782,title_same
+tt_0040,y,Equiano-Interesting-5-0238,Equiano-Interesting-5-0238,lady miltown,,Lady Miltown,Lady Miltown,Interesting Narrative,5,1792,title_same
+tt_0040,y,Equiano-Interesting-6-0511,Equiano-Interesting-6-0511,lady miltown,,Lady Miltown,Lady Miltown,Interesting Narrative,6,1793,title_same
+tt_0040,y,Equiano-Interesting-7-0526,Equiano-Interesting-7-0526,lady miltown,,Lady Miltown,Lady Miltown,Interesting Narrative,7,1793,title_same
+tt_0040,y,Equiano-Interesting-8-0768,Equiano-Interesting-8-0768,lady miltown,,Lady Miltown,Lady Miltown,Interesting Narrative,8,1794,title_same
+tt_0041,y,Equiano-Interesting-5-0323,Equiano-Interesting-5-0323,lord adam gordon,,Lord Adam Gordon,Lord Adam Gordon,Interesting Narrative,5,1792,title_same
+tt_0041,y,Equiano-Interesting-6-0595,Equiano-Interesting-6-0595,lord adam gordon,,Lord Adam Gordon,Lord Adam Gordon,Interesting Narrative,6,1793,title_same
+tt_0041,y,Equiano-Interesting-7-0611,Equiano-Interesting-7-0611,lord adam gordon,,Lord Adam Gordon,Lord Adam Gordon,Interesting Narrative,7,1793,title_same
+tt_0041,y,Equiano-Interesting-8-0824,Equiano-Interesting-8-0824,lord adam gordon,,Lord Adam Gordon,Lord Adam Gordon,Interesting Narrative,8,1794,title_same
+tt_0041,y,Equiano-Interesting-9-0828,Equiano-Interesting-9-0828,lord adam gordon,,Lord Adam Gordon,Lord Adam Gordon,Interesting Narrative,9,1794,title_same
+tt_0042,y,Equiano-Interesting-5-0268,Equiano-Interesting-5-0268,lord ankerville,,Hon. Lord Ankerville,Hon. Lord Ankerville,Interesting Narrative,5,1792,title_same
+tt_0042,y,Equiano-Interesting-6-0540,Equiano-Interesting-6-0540,lord ankerville,,Hon. Lord Ankerville,Hon. Lord Ankerville,Interesting Narrative,6,1793,title_same
+tt_0042,y,Equiano-Interesting-7-0556,Equiano-Interesting-7-0556,lord ankerville,,Hon. Lord Ankerville,Hon. Lord. Ankerville,Interesting Narrative,7,1793,title_same
+tt_0042,y,Equiano-Interesting-8-0797,Equiano-Interesting-8-0797,lord ankerville,,Hon. Lord Ankerville,Hon. Lord Ankerville,Interesting Narrative,8,1794,title_same
+tt_0043,y,Equiano-Interesting-1-0021,Equiano-Interesting-1-0021,lord belgrave,,Right Hon. Lord Belgrave,The Right Hon. Lord Belgrave,Interesting Narrative,1,1789,title_same
+tt_0043,y,Equiano-Interesting-2-0028,Equiano-Interesting-2-0028,lord belgrave,,Right Hon. Lord Belgrave,The Right Hon. Lord Belgrave,Interesting Narrative,2,1789,title_same
+tt_0043,y,Equiano-Interesting-3-0028,Equiano-Interesting-3-0028,lord belgrave,,Right Hon. Lord Belgrave,The Right Hon. Lord Belgrave,Interesting Narrative,3,1790,title_same
+tt_0043,y,Equiano-Interesting-4-0182,Equiano-Interesting-4-0182,lord belgrave,,Right Hon. Lord Belgrave,The Right Hon Lord Belgrave,Interesting Narrative,4,1791,title_same
+tt_0043,y,Equiano-Interesting-5-0019,Equiano-Interesting-5-0019,lord belgrave,,Lord Belgrave,Lord Belgrave,Interesting Narrative,5,1792,title_same
+tt_0043,y,Equiano-Interesting-6-0019,Equiano-Interesting-6-0019,lord belgrave,,Lord Belgrave,Lord Belgrave,Interesting Narrative,6,1793,title_same
+tt_0043,y,Equiano-Interesting-7-0019,Equiano-Interesting-7-0019,lord belgrave,,Lord Belgrave,Lord Belgrave,Interesting Narrative,7,1793,title_same
+tt_0043,y,Equiano-Interesting-8-0019,Equiano-Interesting-8-0019,lord belgrave,,Lord Belgrave,Lord Belgrave,Interesting Narrative,8,1794,title_same
+tt_0044,y,Equiano-Interesting-1-0020,Equiano-Interesting-1-0020,lord bishop of bangor,,Right Rev. the Lord Bishop of Bangor,The Right Rev. the Lord Bishop of Bangor,Interesting Narrative,1,1789,title_same
+tt_0044,y,Equiano-Interesting-2-0027,Equiano-Interesting-2-0027,lord bishop of bangor,,Right Rev. the Lord Bishop of Bangor,The Right Reverand the Lord Bishop of Bangor,Interesting Narrative,2,1789,title_same
+tt_0044,y,Equiano-Interesting-3-0027,Equiano-Interesting-3-0027,lord bishop of bangor,,Right Rev. the Lord Bishop of Bangor,The Right Reverend the Lord Bishop of Bangor,Interesting Narrative,3,1790,title_same
+tt_0044,y,Equiano-Interesting-4-0181,Equiano-Interesting-4-0181,lord bishop of bangor,,Right Rev. the Lord Bishop of Bangor,The Right Reverend the Lord Bishop of Bangor,Interesting Narrative,4,1791,title_same
+tt_0044,y,Equiano-Interesting-5-0018,Equiano-Interesting-5-0018,lord bishop of bangor,,Lord Bishop of Bangor,The Lord Bishop of Bangor,Interesting Narrative,5,1792,title_same
+tt_0044,y,Equiano-Interesting-6-0018,Equiano-Interesting-6-0018,lord bishop of bangor,,Lord Bishop of Bangor,The Lord Bishop of Bangor,Interesting Narrative,6,1793,title_same
+tt_0044,y,Equiano-Interesting-7-0018,Equiano-Interesting-7-0018,lord bishop of bangor,,Lord Bishop of Bangor,The Lord Bishop of Bangor,Interesting Narrative,7,1793,title_same
+tt_0044,y,Equiano-Interesting-8-0018,Equiano-Interesting-8-0018,lord bishop of bangor,,Lord Bishop of Bangor,The Lord Bishop of Bangor,Interesting Narrative,8,1794,title_same
+tt_0044,y,Equiano-Interesting-9-0018,Equiano-Interesting-9-0018,lord bishop of bangor,,Lord Bishop of Bangor,TheLord Bishopof Bangor,Interesting Narrative,9,1794,title_same
+tt_0045,y,Equiano-Interesting-2-0073,Equiano-Interesting-2-0073,lord bishop of chester,,Right Rev. Lord Bishop of Chester,The Right Reverend Lord Bishop of Chester,Interesting Narrative,2,1789,title_same
+tt_0045,y,Equiano-Interesting-3-0075,Equiano-Interesting-3-0075,lord bishop of chester,,Right Rev. Lord Bishop of Chester,The Right Reverend Lord Bishop of Chester,Interesting Narrative,3,1790,title_same
+tt_0045,y,Equiano-Interesting-4-0210,Equiano-Interesting-4-0210,lord bishop of chester,,Right Rev. Lord Bishop of Chester,The Right Revernd Lord Bishop of Chester,Interesting Narrative,4,1791,title_same
+tt_0045,y,Equiano-Interesting-5-0046,Equiano-Interesting-5-0046,lord bishop of chester,,Lord Bishop of Chester,Lord Bishop of Chester,Interesting Narrative,5,1792,title_same
+tt_0045,y,Equiano-Interesting-6-0047,Equiano-Interesting-6-0047,lord bishop of chester,,Lord Bishop of Chester,Lord Bishop of Chester,Interesting Narrative,6,1793,title_same
+tt_0045,y,Equiano-Interesting-7-0046,Equiano-Interesting-7-0046,lord bishop of chester,,Lord Bishop of Chester,Lord Bishop of Chester,Interesting Narrative,7,1793,title_same
+tt_0045,y,Equiano-Interesting-8-0047,Equiano-Interesting-8-0047,lord bishop of chester,,Lord Bishop of Chester,Lord Bishop of Chester,Interesting Narrative,8,1794,title_same
+tt_0045,y,Equiano-Interesting-9-0047,Equiano-Interesting-9-0047,lord bishop of chester,,Lord Bishop of Chester,Lord Bishop of Chester,Interesting Narrative,9,1794,title_same
+tt_0045,y,Sancho-Letters-1-0168,Sancho-Letters-1-0168,lord bishop of chester,,Right Rev. Lord Bishop of Chester,Right Rev. Lord Bishop of Chester,Letters,1,1782,title_same
+tt_0046,y,Equiano-Interesting-4-0022,Equiano-Interesting-4-0022,lord bishop of cork,,Right Rev. the Lord Bishop of Cork,Right Rev. the Lord Bishop of Cork,Interesting Narrative,4,1791,title_same
+tt_0046,y,Equiano-Interesting-5-0209,Equiano-Interesting-5-0209,lord bishop of cork,,Right Rev. the Lord Bishop of Cork,Right Rev. the Lord Bishop of Cork,Interesting Narrative,5,1792,title_same
+tt_0046,y,Equiano-Interesting-6-0481,Equiano-Interesting-6-0481,lord bishop of cork,,Right Rev. the Lord Bishop of Cork,Right Rev. the Lord Bishop of Cork,Interesting Narrative,6,1793,title_same
+tt_0046,y,Equiano-Interesting-7-0496,Equiano-Interesting-7-0496,lord bishop of cork,,Right Rev. the Lord Bishop of Cork,Right Rev. the Lord Bishop of Cork,Interesting Narrative,7,1793,title_same
+tt_0046,y,Equiano-Interesting-8-0738,Equiano-Interesting-8-0738,lord bishop of cork,,Right Rev. the Lord Bishop of Cork,Right Rev. the Lord Bishop of Cork,Interesting Narrative,8,1794,title_same
+tt_0046,y,Equiano-Interesting-9-0740,Equiano-Interesting-9-0740,lord bishop of cork,,Right Rev. the Lord Bishop of Cork,Right rev. the Lord Bishop of Cork,Interesting Narrative,9,1794,title_same
+tt_0047,y,Equiano-Interesting-1-0173,Equiano-Interesting-1-0173,lord bishop of london,,Right Rev. the Lord Bishop of London,The Right Reverend the Lord Bishop of London,Interesting Narrative,1,1789,title_same
+tt_0047,y,Equiano-Interesting-2-0222,Equiano-Interesting-2-0222,lord bishop of london,,Right Rev. the Lord Bishop of London,The Right Reverend the Lord Bishop of London,Interesting Narrative,2,1789,title_same
+tt_0047,y,Equiano-Interesting-3-0228,Equiano-Interesting-3-0228,lord bishop of london,,Right Rev. the Lord Bishop of London,The Right Reverend the Lord Bishop of London,Interesting Narrative,3,1790,title_same
+tt_0047,y,Equiano-Interesting-4-0284,Equiano-Interesting-4-0284,lord bishop of london,,Right Rev. the Lord Bishop of London,The Right Reverend the Lord Bishop of London,Interesting Narrative,4,1791,title_same
+tt_0047,y,Equiano-Interesting-7-0122,Equiano-Interesting-7-0122,lord bishop of london,,Lord Bishop of London,The Ld. Bishop of London,Interesting Narrative,7,1793,title_same
+tt_0047,y,Equiano-Interesting-8-0126,Equiano-Interesting-8-0126,lord bishop of london,,Lord Bishop of London,The Ld. Bishop of London,Interesting Narrative,8,1794,title_same
+tt_0047,y,Equiano-Interesting-9-0126,Equiano-Interesting-9-0126,lord bishop of london,,Lord Bishop of London,The Ld. Bishop of London,Interesting Narrative,9,1794,title_same
+tt_0048,y,Equiano-Interesting-4-0089,Equiano-Interesting-4-0089,lord bishop of meath,,Right Rev. Lord Bishop of Meath,The Right Rev Lord Bishop of Meath,Interesting Narrative,4,1791,title_same
+tt_0048,y,Equiano-Interesting-5-0239,Equiano-Interesting-5-0239,lord bishop of meath,,Right Rev. Lord Bishop of Meath,The Rt Rev. Lord Bishop of Meath,Interesting Narrative,5,1792,title_same
+tt_0048,y,Equiano-Interesting-6-0512,Equiano-Interesting-6-0512,lord bishop of meath,,Right Rev. Lord Bishop of Meath,The Rt. Rev. Lord Bishop of Meath,Interesting Narrative,6,1793,title_same
+tt_0048,y,Equiano-Interesting-7-0527,Equiano-Interesting-7-0527,lord bishop of meath,,Right Rev. Lord Bishop of Meath,The Rit. Rev.Lord Bishop of Meath,Interesting Narrative,7,1793,title_same
+tt_0048,y,Equiano-Interesting-8-0769,Equiano-Interesting-8-0769,lord bishop of meath,,Right Rev. Lord Bishop of Meath,The Rt. Rev. Lord Bishop of Meath,Interesting Narrative,8,1794,title_same
+tt_0048,y,Equiano-Interesting-9-0771,Equiano-Interesting-9-0771,lord bishop of meath,,Right Rev. Lord Bishop of Meath,The Rt. Rev Lord Bishop of Meath,Interesting Narrative,9,1794,title_same
+tt_0049,y,Equiano-Interesting-1-0253,Equiano-Interesting-1-0253,lord bishop of st. david's,,Right Rev. the Lord Bishop of St. David's,The Right Reverend the Lord Bishop of St. David's,Interesting Narrative,1,1789,title_same
+tt_0049,y,Equiano-Interesting-2-0318,Equiano-Interesting-2-0318,lord bishop of st. david's,,Right Rev. the Lord Bishop of St. David's,The Right Reverend the Lord Bishop of St. David's,Interesting Narrative,2,1789,title_same
+tt_0049,y,Equiano-Interesting-3-0328,Equiano-Interesting-3-0328,lord bishop of st. david's,,Right Rev. the Lord Bishop of St. David's,The Right Reverend the Lord Bishop of St. David's,Interesting Narrative,3,1790,title_same
+tt_0049,y,Equiano-Interesting-4-0328,Equiano-Interesting-4-0328,lord bishop of st. david's,,Right Rev. the Lord Bishop of St. David's,The Right Reverend the Lord Bishop of St. David's,Interesting Narrative,4,1791,title_same
+tt_0049,y,Equiano-Interesting-5-0159,Equiano-Interesting-5-0159,lord bishop of st. david's,,Lord Bishop of St. David's,The Lord Bishop of St David's,Interesting Narrative,5,1792,title_same
+tt_0049,y,Equiano-Interesting-6-0173,Equiano-Interesting-6-0173,lord bishop of st. david's,,Lord Bishop of St. David's,The Lord Bishop of St. David's,Interesting Narrative,6,1793,title_same
+tt_0049,y,Equiano-Interesting-7-0177,Equiano-Interesting-7-0177,lord bishop of st. david's,,Lord Bishop of St. David's,The Lord Bishop of St. David's,Interesting Narrative,7,1793,title_same
+tt_0049,y,Equiano-Interesting-8-0181,Equiano-Interesting-8-0181,lord bishop of st. david's,,Lord Bishop of St. David's,The Lord Bishop of St. David's,Interesting Narrative,8,1794,title_same
+tt_0049,y,Equiano-Interesting-9-0181,Equiano-Interesting-9-0181,lord bishop of st. david's,,Lord Bishop of St. David's,The Lord Bishop of St. David's,Interesting Narrative,9,1794,title_same
+tt_0050,y,Equiano-Interesting-1-0289,Equiano-Interesting-1-0289,lord bishop of worcester,,Right Rev. the Lord Bishop of Worcester,The Right Reverend the Lord Bishop of Worcester,Interesting Narrative,1,1789,title_same
+tt_0050,y,Equiano-Interesting-2-0364,Equiano-Interesting-2-0364,lord bishop of worcester,,Right Rev. the Lord Bishop of Worcester,The Right Reverend the Lord Bishop of Worcester,Interesting Narrative,2,1789,title_same
+tt_0050,y,Equiano-Interesting-3-0378,Equiano-Interesting-3-0378,lord bishop of worcester,,Right Rev. the Lord Bishop of Worcester,The Right Reverend the Lord Bishop of Wocester,Interesting Narrative,3,1790,title_same
+tt_0050,y,Equiano-Interesting-4-0351,Equiano-Interesting-4-0351,lord bishop of worcester,,Right Rev. the Lord Bishop of Worcester,The Right Reverend the Lord Bishop of Worcester,Interesting Narrative,4,1791,title_same
+tt_0051,y,Equiano-Interesting-1-0058,Equiano-Interesting-1-0058,lord cathcart,,Right Hon. Lord Cathcart,The Right Hon. Lord Cathcart,Interesting Narrative,1,1789,title_same
+tt_0051,y,Equiano-Interesting-2-0072,Equiano-Interesting-2-0072,lord cathcart,,Right Hon. Lord Cathcart,The Right Hon. Lord Cathcart,Interesting Narrative,2,1789,title_same
+tt_0051,y,Equiano-Interesting-3-0074,Equiano-Interesting-3-0074,lord cathcart,,Right Hon. Lord Cathcart,The Right Hon. Lord Cathcart,Interesting Narrative,3,1790,title_same
+tt_0051,y,Equiano-Interesting-4-0209,Equiano-Interesting-4-0209,lord cathcart,,Right Hon. Lord Cathcart,The Right Hon. Lord Cathcart,Interesting Narrative,4,1791,title_same
+tt_0051,y,Equiano-Interesting-5-0045,Equiano-Interesting-5-0045,lord cathcart,,Hon. Lord Cathcart,Hon. Lord Carthcart,Interesting Narrative,5,1792,title_same
+tt_0051,y,Equiano-Interesting-6-0046,Equiano-Interesting-6-0046,lord cathcart,,Hon. Lord Cathcart,Hon. Lord Cathcart,Interesting Narrative,6,1793,title_same
+tt_0051,y,Equiano-Interesting-7-0045,Equiano-Interesting-7-0045,lord cathcart,,Right Hon. Lord Cathcart,Rt. Hon. Lord Cathcart,Interesting Narrative,7,1793,title_same
+tt_0051,y,Equiano-Interesting-8-0046,Equiano-Interesting-8-0046,lord cathcart,,Right Hon. Lord Cathcart,Rt. Hon. Lord Cathcart,Interesting Narrative,8,1794,title_same
+tt_0051,y,Equiano-Interesting-9-0046,Equiano-Interesting-9-0046,lord cathcart,,Right Hon. Lord Cathcart,Rt. Hon Lord Cathcart,Interesting Narrative,9,1794,title_same
+tt_0052,y,Equiano-Interesting-1-0129,Equiano-Interesting-1-0129,lord hawke,,Right Hon. Lord Hawke,The Right Hon. Lord Hawke,Interesting Narrative,1,1789,title_same
+tt_0052,y,Equiano-Interesting-2-0154,Equiano-Interesting-2-0154,lord hawke,,Right Hon. Lord Hawke,The Right Hon. Lord Hawke,Interesting Narrative,2,1789,title_same
+tt_0052,y,Equiano-Interesting-3-0159,Equiano-Interesting-3-0159,lord hawke,,Right Hon. Lord Hawke,The Right Hon. Lord Hawke,Interesting Narrative,3,1790,title_same
+tt_0052,y,Equiano-Interesting-4-0254,Equiano-Interesting-4-0254,lord hawke,,Right Hon. Lord Hawke,The Right Hon. Lord Hawke,Interesting Narrative,4,1791,title_same
+tt_0052,y,Equiano-Interesting-5-0087,Equiano-Interesting-5-0087,lord hawke,,Hon. Lord Hawke,Hon. Lord Hawke,Interesting Narrative,5,1792,title_same
+tt_0052,y,Equiano-Interesting-6-0092,Equiano-Interesting-6-0092,lord hawke,,Hon. Lord Hawke,Hon. Lord Hawke,Interesting Narrative,6,1793,title_same
+tt_0052,y,Equiano-Interesting-7-0092,Equiano-Interesting-7-0092,lord hawke,,Right Hon. Lord Hawke,Rt. Hon. Ld. Hawke,Interesting Narrative,7,1793,title_same
+tt_0052,y,Equiano-Interesting-8-0095,Equiano-Interesting-8-0095,lord hawke,,Right Hon. Lord Hawke,Rt. Hon. Lord Hawke,Interesting Narrative,8,1794,title_same
+tt_0052,y,Equiano-Interesting-9-0095,Equiano-Interesting-9-0095,lord hawke,,Right Hon. Lord Hawke,Rt. Hon. Lord Hawke,Interesting Narrative,9,1794,title_same
+tt_0053,y,Equiano-Interesting-1-0165,Equiano-Interesting-1-0165,lord kinnaird,,Right Hon. Lord Kinnaird,The Right Hon. Lord Kinnaird,Interesting Narrative,1,1789,title_same
+tt_0053,y,Equiano-Interesting-2-0213,Equiano-Interesting-2-0213,lord kinnaird,,Right Hon. Lord Kinnaird,The Right Hon. Lord Kinnaird,Interesting Narrative,2,1789,title_same
+tt_0053,y,Equiano-Interesting-3-0219,Equiano-Interesting-3-0219,lord kinnaird,,Right Hon. Lord Kinnaird,The Right Hon. Lord Kinnaird,Interesting Narrative,3,1790,title_same
+tt_0053,y,Equiano-Interesting-4-0281,Equiano-Interesting-4-0281,lord kinnaird,,Right Hon. Lord Kinnaird,The Right Hon. Lord Kinnaird,Interesting Narrative,4,1791,title_same
+tt_0053,y,Equiano-Interesting-5-0110,Equiano-Interesting-5-0110,lord kinnaird,,Hon. Lord Kinnaird,Hon. Lord Kinnaird,Interesting Narrative,5,1792,title_same
+tt_0053,y,Equiano-Interesting-6-0117,Equiano-Interesting-6-0117,lord kinnaird,,Hon. Lord Kinnaird,Hon. Lord Kinnaird,Interesting Narrative,6,1793,title_same
+tt_0053,y,Equiano-Interesting-7-0118,Equiano-Interesting-7-0118,lord kinnaird,,Right Hon. Lord Kinnaird,Rt. Hon. Ld. Kinnaird,Interesting Narrative,7,1793,title_same
+tt_0053,y,Equiano-Interesting-8-0121,Equiano-Interesting-8-0121,lord kinnaird,,Right Hon. Lord Kinnaird,Rt. Hon. Lord Kinnaird,Interesting Narrative,8,1794,title_same
+tt_0053,y,Equiano-Interesting-9-0121,Equiano-Interesting-9-0121,lord kinnaird,,Right Hon. Lord Kinnaird,Rt. Hon. Lord Kinnaird,Interesting Narrative,9,1794,title_same
+tt_0054,y,Equiano-Interesting-5-0362,Equiano-Interesting-5-0362,lord monboddo,,Hon. Lord Monboddo,The Hon.LordMonboddo,Interesting Narrative,5,1792,title_same
+tt_0054,y,Equiano-Interesting-6-0634,Equiano-Interesting-6-0634,lord monboddo,,Hon. Lord Monboddo,TheHon.Lord Monboddo,Interesting Narrative,6,1793,title_same
+tt_0054,y,Equiano-Interesting-7-0650,Equiano-Interesting-7-0650,lord monboddo,,Hon. Lord Monboddo,The Hon.Ld.Monboddo,Interesting Narrative,7,1793,title_same
+tt_0054,y,Equiano-Interesting-8-0840,Equiano-Interesting-8-0840,lord monboddo,,Hon. Lord Monboddo,The Hon. Ld. Monboddo,Interesting Narrative,8,1794,title_same
+tt_0054,y,Equiano-Interesting-9-0844,Equiano-Interesting-9-0844,lord monboddo,,Hon. Lord Monboddo,The Hon. Ld. Monboddo,Interesting Narrative,9,1794,title_same
+tt_0055,y,Equiano-Interesting-1-0192,Equiano-Interesting-1-0192,lord mulgrave,,Right Hon. Lord Mulgrave,The Right Hon. Lord Mulgrave,Interesting Narrative,1,1789,title_same
+tt_0055,y,Equiano-Interesting-2-0242,Equiano-Interesting-2-0242,lord mulgrave,,Right Hon. Lord Mulgrave,The Right Hon. Lord Mulgrave,Interesting Narrative,2,1789,title_same
+tt_0055,y,Equiano-Interesting-3-0251,Equiano-Interesting-3-0251,lord mulgrave,,Right Hon. Lord Mulgrave,The Right Hon. Lord Mulgrave,Interesting Narrative,3,1790,title_same
+tt_0055,y,Equiano-Interesting-4-0296,Equiano-Interesting-4-0296,lord mulgrave,,Right Hon. Lord Mulgrave,The Right Hon. Lord Mulgrave,Interesting Narrative,4,1791,title_same
+tt_0055,y,Equiano-Interesting-5-0125,Equiano-Interesting-5-0125,lord mulgrave,,Hon. Lord Mulgrave,Hon. Lord Mulgrave,Interesting Narrative,5,1792,title_same
+tt_0055,y,Equiano-Interesting-6-0132,Equiano-Interesting-6-0132,lord mulgrave,,Hon. Lord Mulgrave,Hon. Lord Mulgrave,Interesting Narrative,6,1793,title_same
+tt_0055,y,Equiano-Interesting-7-0134,Equiano-Interesting-7-0134,lord mulgrave,,Right Hon. Lord Mulgrave,Rt. Hon. Lord Mulgrave,Interesting Narrative,7,1793,title_same
+tt_0055,y,Equiano-Interesting-8-0139,Equiano-Interesting-8-0139,lord mulgrave,,Right Hon. Lord Mulgrave,Rt. Hon. Lord Mulgrave,Interesting Narrative,8,1794,title_same
+tt_0055,y,Equiano-Interesting-9-0138,Equiano-Interesting-9-0138,lord mulgrave,,Right Hon. Lord Mulgrave,Rt. Hon. Lord Mulgrave,Interesting Narrative,9,1794,title_same
+tt_0056,y,Equiano-Interesting-1-0236,Equiano-Interesting-1-0236,lord rawdon,,Right Hon. Lord Rawdon,The Right Hon. Lord Rawdon,Interesting Narrative,1,1789,title_same
+tt_0056,y,Equiano-Interesting-2-0300,Equiano-Interesting-2-0300,lord rawdon,,Right Hon. Lord Rawdon,The Right Hon. Lord Rawdon,Interesting Narrative,2,1789,title_same
+tt_0056,y,Equiano-Interesting-3-0310,Equiano-Interesting-3-0310,lord rawdon,,Right Hon. Lord Rawdon,The Right Hon. Lord Rawdon,Interesting Narrative,3,1790,title_same
+tt_0056,y,Equiano-Interesting-4-0320,Equiano-Interesting-4-0320,lord rawdon,,Right Hon. Lord Rawdon,The Right Hon. Lord Rawdon,Interesting Narrative,4,1791,title_same
+tt_0056,y,Equiano-Interesting-5-0150,Equiano-Interesting-5-0150,lord rawdon,,Hon. Lord Rawdon,Hon. Lord Rawdon,Interesting Narrative,5,1792,title_same
+tt_0056,y,Equiano-Interesting-6-0162,Equiano-Interesting-6-0162,lord rawdon,,Hon. Lord Rawdon,Hon. Lord Rawdon,Interesting Narrative,6,1793,title_same
+tt_0056,y,Equiano-Interesting-7-0165,Equiano-Interesting-7-0165,lord rawdon,,Right Hon. Lord Rawdon,Rt. Hon Lord Rawdon,Interesting Narrative,7,1793,title_same
+tt_0056,y,Equiano-Interesting-8-0170,Equiano-Interesting-8-0170,lord rawdon,,Right Hon. Lord Rawdon,Rt. Hon. Lord Rawdon,Interesting Narrative,8,1794,title_same
+tt_0056,y,Equiano-Interesting-9-0169,Equiano-Interesting-9-0169,lord rawdon,,Right Hon. Lord Rawdon,Rt. Hon. Lord Rawdon,Interesting Narrative,9,1794,title_same
+tt_0057,y,Equiano-Interesting-1-0237,Equiano-Interesting-1-0237,lord rivers,,Right Hon. Lord Rivers,"The Right Hon. Lord Rivers, 2 copies",Interesting Narrative,1,1789,title_same
+tt_0057,y,Equiano-Interesting-2-0301,Equiano-Interesting-2-0301,lord rivers,,Right Hon. Lord Rivers,"The Right Hon. Lord Rivers, 2 copies",Interesting Narrative,2,1789,title_same
+tt_0057,y,Equiano-Interesting-3-0311,Equiano-Interesting-3-0311,lord rivers,,Right Hon. Lord Rivers,"The Right Hon. Lord Rivers, 2 copies",Interesting Narrative,3,1790,title_same
+tt_0057,y,Equiano-Interesting-4-0321,Equiano-Interesting-4-0321,lord rivers,,Right Hon. Lord Rivers,"The Right Hon. Lord Rivers, 2 copies",Interesting Narrative,4,1791,title_same
+tt_0057,y,Equiano-Interesting-5-0151,Equiano-Interesting-5-0151,lord rivers,,Hon. Lord Rivers,Hon. Lord Rivers,Interesting Narrative,5,1792,title_same
+tt_0057,y,Equiano-Interesting-6-0163,Equiano-Interesting-6-0163,lord rivers,,Hon. Lord Rivers,Hon. Lord Rivers,Interesting Narrative,6,1793,title_same
+tt_0057,y,Equiano-Interesting-7-0166,Equiano-Interesting-7-0166,lord rivers,,Right Hon. Lord Rivers,Rt. Hon. Lord Rivers,Interesting Narrative,7,1793,title_same
+tt_0057,y,Equiano-Interesting-8-0171,Equiano-Interesting-8-0171,lord rivers,,Right Hon. Lord Rivers,Rt. Hon. Lord Rivers,Interesting Narrative,8,1794,title_same
+tt_0057,y,Equiano-Interesting-9-0170,Equiano-Interesting-9-0170,lord rivers,,Right Hon. Lord Rivers,Rt. Hon. Lord Rivers,Interesting Narrative,9,1794,title_same
+tt_0058,y,Equiano-Interesting-5-0399,Equiano-Interesting-5-0399,lord swinton,,Hon. Lord Swinton,Hon. Lord Swinton,Interesting Narrative,5,1792,title_same
+tt_0058,y,Equiano-Interesting-6-0672,Equiano-Interesting-6-0672,lord swinton,,Hon. Lord Swinton,Hon. Lord Swinton,Interesting Narrative,6,1793,title_same
+tt_0058,y,Equiano-Interesting-7-0687,Equiano-Interesting-7-0687,lord swinton,,Hon. Lord Swinton,Hon. Lord Swinton,Interesting Narrative,7,1793,title_same
+tt_0058,y,Equiano-Interesting-8-0864,Equiano-Interesting-8-0864,lord swinton,,Hon. Lord Swinton,Hon. Lord Swinton,Interesting Narrative,8,1794,title_same
+tt_0058,y,Equiano-Interesting-9-0869,Equiano-Interesting-9-0869,lord swinton,,Hon. Lord Swinton,Hon. Lord Swinton,Interesting Narrative,9,1794,title_same
+tt_0059,y,Equiano-Interesting-1-0001,Equiano-Interesting-1-0001,prince of wales,,Prince of Wales,His Royal Highness the Prince of Wales.,Interesting Narrative,1,1789,title_same
+tt_0059,y,Equiano-Interesting-2-0001,Equiano-Interesting-2-0001,prince of wales,,Prince of Wales,His Royal Highness the Prince of Wales.,Interesting Narrative,2,1789,title_same
+tt_0059,y,Equiano-Interesting-3-0001,Equiano-Interesting-3-0001,prince of wales,,Prince of Wales,His Royal Highness the Prince of Wales.,Interesting Narrative,3,1790,title_same
+tt_0059,y,Equiano-Interesting-4-0163,Equiano-Interesting-4-0163,prince of wales,,Prince of Wales,HIs Royal Highness the Prince of Wales.,Interesting Narrative,4,1791,title_same
+tt_0059,y,Equiano-Interesting-5-0001,Equiano-Interesting-5-0001,prince of wales,,Prince of Wales,His Royal Highness the Prince of Wales.,Interesting Narrative,5,1792,title_same
+tt_0059,y,Equiano-Interesting-6-0001,Equiano-Interesting-6-0001,prince of wales,,Prince of Wales,His Royal Highness the Prince of Wales.,Interesting Narrative,6,1793,title_same
+tt_0059,y,Equiano-Interesting-7-0001,Equiano-Interesting-7-0001,prince of wales,,Prince of Wales,His Royal Highness the Prince of Wales.,Interesting Narrative,7,1793,title_same
+tt_0059,y,Equiano-Interesting-8-0001,Equiano-Interesting-8-0001,prince of wales,,Prince of Wales,His Royal Highness the Prince of Wales.,Interesting Narrative,8,1794,title_same
+tt_0059,y,Equiano-Interesting-9-0001,Equiano-Interesting-9-0001,prince of wales,,Prince of Wales,His Royal Highness the Prince of Wales,Interesting Narrative,9,1794,title_same
+tt_0060,y,Equiano-Interesting-1-0108,Equiano-Interesting-1-0108,visc. of gallway,,Right Hon. Visc. of Gallway,The Right Hon. Viscount Gallway,Interesting Narrative,1,1789,title_same
+tt_0060,y,Equiano-Interesting-2-0131,Equiano-Interesting-2-0131,visc. of gallway,,Right Hon. Visc. of Gallway,The Right Hon. Viscount Gallway,Interesting Narrative,2,1789,title_same
+tt_0060,y,Equiano-Interesting-3-0136,Equiano-Interesting-3-0136,visc. of gallway,,Right Hon. Visc. of Gallway,The Right Hon. Viscount Gallway,Interesting Narrative,3,1790,title_same
+tt_0060,y,Equiano-Interesting-4-0242,Equiano-Interesting-4-0242,visc. of gallway,,Right Hon. Visc. of Gallway,The Right Hon. Viscount Gallway,Interesting Narrative,4,1791,title_same
+tt_0060,y,Equiano-Interesting-5-0078,Equiano-Interesting-5-0078,visc. of gallway,,Hon. Visc. of Gallway,Hon. Viscount Gallway,Interesting Narrative,5,1792,title_same
+tt_0060,y,Equiano-Interesting-6-0081,Equiano-Interesting-6-0081,visc. of gallway,,Hon. Visc. of Gallway,Hon. Viscount Gallway,Interesting Narrative,6,1793,title_same
+tt_0060,y,Equiano-Interesting-7-0081,Equiano-Interesting-7-0081,visc. of gallway,,Right Hon. Visc. of Gallway,Right Hon. Viscount Gallway,Interesting Narrative,7,1793,title_same
+tt_0060,y,Equiano-Interesting-8-0084,Equiano-Interesting-8-0084,visc. of gallway,,Right Hon. Visc. of Gallway,Rt. Hon. Visc. Gallway,Interesting Narrative,8,1794,title_same
+tt_0060,y,Equiano-Interesting-9-0084,Equiano-Interesting-9-0084,visc. of gallway,,Right Hon. Visc. of Gallway,Rt. Hon. Visc. Gallway,Interesting Narrative,9,1794,title_same
+tt_0061,y,Equiano-Interesting-1-0109,Equiano-Interesting-1-0109,viscountess of gallway,,Right Hon. Viscountess of Gallway,The Right Hon. Viscountess Gallway,Interesting Narrative,1,1789,title_same
+tt_0061,y,Equiano-Interesting-2-0132,Equiano-Interesting-2-0132,viscountess of gallway,,Right Hon. Viscountess of Gallway,The Right Hon. Viscountess Gallway,Interesting Narrative,2,1789,title_same
+tt_0061,y,Equiano-Interesting-3-0137,Equiano-Interesting-3-0137,viscountess of gallway,,Right Hon. Viscountess of Gallway,The Right Hon. Viscountess Gallway,Interesting Narrative,3,1790,title_same
+tt_0061,y,Equiano-Interesting-4-0243,Equiano-Interesting-4-0243,viscountess of gallway,,Right Hon. Viscountess of Gallway,The Right Hon. Viscountess Gallway,Interesting Narrative,4,1791,title_same
+tt_0061,y,Equiano-Interesting-5-0079,Equiano-Interesting-5-0079,viscountess of gallway,,Hon. Viscountess of Gallway,Hon. Viscountess Gallway,Interesting Narrative,5,1792,title_same
+tt_0061,y,Equiano-Interesting-6-0082,Equiano-Interesting-6-0082,viscountess of gallway,,Hon. Viscountess of Gallway,Hon. Viscountess Gallway,Interesting Narrative,6,1793,title_same
+tt_0061,y,Equiano-Interesting-7-0082,Equiano-Interesting-7-0082,viscountess of gallway,,Right Hon. Viscountess of Gallway,Right Hon. Viscountess Gallway,Interesting Narrative,7,1793,title_same
+tt_0061,y,Equiano-Interesting-8-0085,Equiano-Interesting-8-0085,viscountess of gallway,,Right Hon. Viscountess of Gallway,Rt. Hon. Viscountess Gallway,Interesting Narrative,8,1794,title_same
+tt_0061,y,Equiano-Interesting-9-0085,Equiano-Interesting-9-0085,viscountess of gallway,,Right Hon. Viscountess of Gallway,Rt. Hon. Viscountess Gallway,Interesting Narrative,9,1794,title_same

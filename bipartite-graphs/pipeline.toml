@@ -1,0 +1,11 @@
+# ==============================================================================
+#        Bipartite Graph Pipeline for Eighteenth-Century Subscriber Lists
+#                            pipeline.toml
+# ==============================================================================
+# Configuration for building a bipartite graph and its overlap
+# visualizations from a deduplicated subscriber CSV.
+# ==============================================================================
+
+[paths]
+deduplicated = "../entity-resolution/outputs/deduplicated.csv"
+graph        = "outputs/graph.graphml"

@@ -1,0 +1,11 @@
+# Dependencies for the 18thC-subscriber-networks pipeline.
+# Every stage runs on the Python standard library plus the four packages below.
+# Developed and tested with the versions in parentheses on Python 3.14.
+
+networkx>=3.0      # bipartite graph construction + community detection  (3.6.1)
+matplotlib>=3.6    # chord-diagram rendering, PNG + SVG                   (3.10.7)
+numpy>=1.23        # geometry for the chord layout                       (2.2.6)
+rapidfuzz>=3.0     # fast fuzzy name matching in entity resolution       (3.14.5)
+
+# Only needed on Python < 3.11; from 3.11 the standard-library tomllib is used.
+tomli>=1.1 ; python_version < "3.11"
