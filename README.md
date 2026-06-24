@@ -5,7 +5,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 -->
 
-Turn transcribed eighteenth-century book-subscriber lists into a bimodal network of books and persons! Find out which books shared a readership, and exactly who those shared subscribers were! Maybe even generalize to *other* kinds of lists of eighteenth-centiry names? All driven by exhaustingly rules-based logic, with several opportunities for manual review and adjustment!
+Turn transcribed eighteenth-century book-subscriber lists into a bimodal network of books and persons! Find out which books shared a readership, and exactly who those shared subscribers were! Maybe even generalize to *other* kinds of lists of eighteenth-century names? All driven by exhaustingly rules-based logic, with several opportunities for manual review and adjustment!
 
 ## What this does
 
