@@ -18,8 +18,8 @@ authors. Editions of the same book share a `book` value and collapse into a sing
 | `sancho-1782.csv` | *Letters* | Ignatius Sancho | 1 (1782) | 1,181 |
 | `cugoano-1791.csv` | *Thoughts and Sentiments* | Ottobah Cugoano | 1 (1791) | 165 |
 
-These are public-domain printed sources; the lists were transcribed from the
-subscriber pages of the named editions.
+This dataset has also been peer-reviewed and published:
+* Lawrence Evalyn, Alisa Chen; <a href="https://scholarlypublishingcollective.org/msup/jsdp/article/6/4/267/407501">Book Subscribers of Formerly Enslaved English Authors</a>, 1782-1794. Journal of Slavery and Data Preservation 1 December 2025; 6 (4): 267–277. doi: https://doi.org/10.14321/jsdp.6.4.0267
 
 ## Input schema
 

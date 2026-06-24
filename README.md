@@ -16,10 +16,6 @@ Given a folder of subscriber-list CSVs (the kind of output you get from OCR'ing 
 - **`overlap-namelist.csv`** — every subscriber who appears in more than one work, with the
   list of works for each.
 
-<p align="center">
-  <img src="examples/overlap-network.png" alt="Chord diagram of books linked by shared subscribers" width="560">
-</p>
-
 ## How the pipeline fits together
 
 ```
@@ -123,6 +119,9 @@ If you use this software, please cite it. GitHub's **"Cite this repository"** bu
   url      = {https://github.com/lawrenceevalyn/18thC-subscriber-networks}
 }
 ```
+
+You may also be interested in:
+* "[Bimodal Network Graphs of Crowdfunded Literary Patronage: Two Views of Black Britons Publishing in the Eighteenth Century](https://lawrenceevalyn.com/ACH-2026-poster.html)", *Association for Computers and the Humanities 2026*, a virtual poster introducting this pipeline.
 
 A DOI will be added here once a release is archived on Zenodo (see the badge slot at the top
 and the DOI slot in `CITATION.cff`).
